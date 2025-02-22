@@ -1,1150 +1,1149 @@
-,id,name,subject_id
-0,,,
-0,ACC198, Accounting Professionalism,ACC
-0,ACC215, Intro Financial Accounting(CT),ACC
-0,ACC216, Intro Managerial Accounting,ACC
-0,ACC311, Intermediate Accounting I,ACC
-0,ACC312, Intermediate Accounting II,ACC
-0,ACC318, Cost Accounting I,ACC
-0,ACC341, Acc Information Systems,ACC
-0,ACC348, Federal Taxation,ACC
-0,ACC429, Auditing I,ACC
-0,ACC440, Accounting Analytics,ACC
-0,ACC448, Federal Income Tax II,ACC
-0,ACC480, SpTp: Cyber Inv ACC Data,ACC
-0,ACC490, Internship,ACC
-0,ACC499, Professional and Ethics Sem,ACC
-0,ACE304, Safety in CTE,ACE
-0,ACE305, Methods of Examination in CTE,ACE
-0,ACE307, Computer Applications in CTE,ACE
-0,ACE409, Coord CTE Youth Activities,ACE
-0,ACE421, Teach Special Students in CTE,ACE
-0,ACE422, Occup Update Back to Industry,ACE
-0,ACE423, Occup Update Bus./Ind. Enrich,ACE
-0,ACE424, Occup Update Instructor Dev,ACE
-0,ACE425, Occup Update Other,ACE
-0,ACE499, Senior Project in CTE,ACE
-0,AM298, Sophomore Review,AM
-0,AM498, Senior PreCapstone,AM
-0,AM499, Senior Capstone Project,AM
-0,AMT101, Beginning Aviation Maintenance,AMT
-0,AMT102, Regulations & Publications,AMT
-0,AMT103, Technical Skills & Practices,AMT
-0,AMT105, Aviation Utility Systems,AMT
-0,AMT109, Aviation Electronics,AMT
-0,AMT110, Aviation Power Systems,AMT
-0,AMT202, Sheet Metal Structures,AMT
-0,AMT204, Propeller & Control Systems,AMT
-0,AMT205, Turbine Engines,AMT
-0,AMT207, Turbine Engine Maintenance,AMT
-0,AMT208, Cabin Atmosphere Systems,AMT
-0,ANT201, Cultural Anthropology (CT),ANT
-0,ANT322, Archaeology,ANT
-0,ANT325, World Prehistory,ANT
-0,ANT362," Health, Culture & Society",ANT
-0,ANT371, Linguistic Anthropology,ANT
-0,ANT480, SpTp: Forensic Anthropology,ANT
-0,ANT491, Anthropological Theory,ANT
-0,ANT493, Senior Seminar II,ANT
-0,ART112, Intro To Visual Art,ART
-0,ART202, History of Art II (CT),ART
-0,ART214, Foundations: Grid/Chroma,ART
-0,ART215, Foundations: Form/Space,ART
-0,ART217, Foundations: Record/Layer,ART
-0,ART218, Foundations: Site/Matrix,ART
-0,ART219, Foundations: Frame/Time,ART
-0,ART298, Foundations Review: BFA,ART
-0,ART299, Foundations Review: BA,ART
-0,ART301, Printmaking Processes,ART
-0,ART307, Sculpture,ART
-0,ART308, Weaving,ART
-0,ART314, Graphic Design I,ART
-0,ART320, Silk Screen Printmaking,ART
-0,ART325, Image Visualization: Digital,ART
-0,ART327, Filmmaking I,ART
-0,ART329, Cinematic NonFiction,ART
-0,ART335, Art Ed 2D3D,ART
-0,ART340, Art Education: Secondary,ART
-0,ART343, Intro to Potter's Wheel,ART
-0,ART350, Watercolor Painting,ART
-0,ART351, Advanced Watercolor,ART
-0,ART389, 20th Century Art,ART
-0,ART415, Northern Renaissance Art,ART
-0,ART419, Textile Construction,ART
-0,ART425, History of Photography,ART
-0,ART434, Video Art,ART
-0,ART440, Adv Graphic Design,ART
-0,ART443, Mm/Assemblage Sculpture,ART
-0,ART446, Intermed Potter's Wheel,ART
-0,ART448, Ceramic Mat & Processes,ART
-0,ART454, Motion Design II,ART
-0,ART481, SpTp: Contemporary Art History,ART
-0,ART482, SpTp: Art in America,ART
-0,ART485, Independent Study,ART
-0,ART486, Independent Study,ART
-0,ART489, Graphic Design Portfolio,ART
-0,ART490, Apprenticeship,ART
-0,ART491, Graphic Design Workshop,ART
-0,ART497, Capstone StudioBFA,ART
-0,ART497, Capstone StudioBA,ART
-0,ART498, Senior Capstone Exhibition BFA,ART
-0,AVSC102, Flight School Orientation,AVSC
-0,AVSC200, Private Pilot Ground School,AVSC
-0,AVSC205, Solo Flight Lab,AVSC
-0,AVSC210, Private Pilot Cert ASEL Lab,AVSC
-0,AVSC215, Instrument Ground School,AVSC
-0,AVSC220, Instrument Certification Lab,AVSC
-0,AVSC231, Aviation Law and Regulations,AVSC
-0,AVSC305, CFII Lab,AVSC
-0,AVSC310, Aerodynamics & Performance,AVSC
-0,AVSC311, Aircraft Systems,AVSC
-0,AVSC315, Airport Operations and Mgmt,AVSC
-0,AVSC329, Commercial Ground School,AVSC
-0,AVSC330, Commercial Phase I Lab,AVSC
-0,AVSC335, CFI Ground School,AVSC
-0,AVSC340, Commercial Phase II ASEL Lab,AVSC
-0,AVSC345, Initial CFI ASEL Lab,AVSC
-0,AVSC355, Aviation Weather,AVSC
-0,AVSC375, Commercial AMEL AddOn Lab,AVSC
-0,AVSC420, International Aviation,AVSC
-0,AVSC495, Internship in Aviation Ops,AVSC
-0,BME201, Biomedical Engineering Seminar,BME
-0,BME306, Tissue Engineering,BME
-0,BME310, Modeling & Simulation Bio Syst,BME
-0,BME460, Mechanics of Biofuilds,BME
-0,BME466, Biomedical Engr Capstone II,BME
-0,BME480, SpTp: Bioelectronics,BME
-0,BME481, SpTp: Nanomedicine,BME
-0,BME482, SpTp: Indiv Rsrch Practicum,BME
-0,BSC104, Introduction to Biology,BSC
-0,BSC104L, Introduction to Biology Lab,BSC
-0,BSC105, Human Biology,BSC
-0,BSC105L, Human Biology Lab,BSC
-0,BSC120, Principles of Biology I,BSC
-0,BSC120L, Principles of Biology I Lab,BSC
-0,BSC121, Principles of Biology II,BSC
-0,BSC121L, Prin of Biology II Lab,BSC
-0,BSC227, Human Anatomy,BSC
-0,BSC227L, Human Anatomy Lab,BSC
-0,BSC228, Human Physiology,BSC
-0,BSC228L, Human Physiology Lab,BSC
-0,BSC250, Microbiol & Human Disease,BSC
-0,BSC250L, Microbio and Human Disease Lab,BSC
-0,BSC302, Principles of Microbiology,BSC
-0,BSC304, Microbiology Lab,BSC
-0,BSC320, Principles of Ecology,BSC
-0,BSC322, Principles Cell Biology,BSC
-0,BSC324, Principles of Genetics,BSC
-0,BSC332, Principles of Human Anatomy,BSC
-0,BSC332L, Prin of Human Anatomy Lab,BSC
-0,BSC334, Principles of Human Physiology,BSC
-0,BSC334L, Prin of Human Physiology Lab,BSC
-0,BSC340, Principles of Evolution,BSC
-0,BSC417, Biostatistics,BSC
-0,BSC421, Phycology,BSC
-0,BSC422, Animal Physiology,BSC
-0,BSC428, Neuroscience,BSC
-0,BSC430, Plant Ecology,BSC
-0,BSC436, Vertebrate Embryology,BSC
-0,BSC443, Microbial Genetics,BSC
-0,BSC451, Molecular Medicine,BSC
-0,BSC480, SpTp: R Data Analysis,BSC
-0,BSC481, SpTp: Human Genetics,BSC
-0,BSC482," SpTp: Drugs, Brain & Behavior",BSC
-0,BSC485, Independent Study,BSC
-0,BSC491, Capstone Experience,BSC
-0,BSPS101, Intro to Careers in Pharm Sci,BSPS
-0,BUSN290, Internship,BUSN
-0,BUSN490, Internship,BUSN
-0,CD101, Intro Communic Disorders,CD
-0,CD228, Language and Speech Dev,CD
-0,CD229, Anatomy Speech Mechanism,CD
-0,CD239, Phonetics,CD
-0,CD241, Intro Communication Science,CD
-0,CD322, Dev Speech Disorders,CD
-0,CD328, Developmental Lang Dis,CD
-0,CD330, Acq Comm Swallowing Dis,CD
-0,CD401, Inquiry in CD,CD
-0,CD420, Voice and Fluency Disorders,CD
-0,CD427, Therapeutic Procedures II,CD
-0,CD460, Basic Audiology,CD
-0,CD461, Sign Language for SLP,CD
-0,CD470L, Therapeutic Procedures Lab,CD
-0,CD485, Independent Study,CD
-0,CE322, Geotechnical Engineering,CE
-0,CE331, Hydraulic Engineering,CE
-0,CE342, Transportation Engineering,CE
-0,CE351, Environmental Engineering,CE
-0,CE414, Structural Steel Design,CE
-0,CE438, Pavement Design and Management,CE
-0,CE452, Senior Seminar of Civil Engr,CE
-0,CE453, Capstone Senior Design,CE
-0,CFS200, Introduction to CFS,CFS
-0,CFS261, Introduction to Linux,CFS
-0,CFS305, Open Source Intelligence,CFS
-0,CFS400, Intro to Cyber Forensics,CFS
-0,CFS420, Incident Response,CFS
-0,CFS440, Digital Evidence,CFS
-0,CFS445, Mobile & Web Pen Testing,CFS
-0,CFS454, Network Defense,CFS
-0,CFS461, Cyber Warfare,CFS
-0,CFS462, Network Forensics,CFS
-0,CFS467, Mobile Device Forensics,CFS
-0,CFS485, Independent Study,CFS
-0,CFS490, Capstone,CFS
-0,CHM111, Foundations of Chemistry,CHM
-0,CHM205," General, Organic, and Biochem",CHM
-0,CHM211, Principles of Chemistry I,CHM
-0,CHM212, Principles Chemistry II,CHM
-0,CHM217, Principles of Chem Lab I,CHM
-0,CHM218, Principles of Chem Lab II,CHM
-0,CHM218H, Prin Chem Honor Lab II,CHM
-0,CHM305, Research Methods Chem,CHM
-0,CHM332, Chemistry Seminar,CHM
-0,CHM355, Organic Chemistry I,CHM
-0,CHM356, Organic Chemistry II,CHM
-0,CHM358, Physical Chemistry: Thermo.,CHM
-0,CHM361, Intro Organic Chm Lab,CHM
-0,CHM365, Introductory Biochemistry,CHM
-0,CHM366, Intro Biochemistry Lab,CHM
-0,CHM390H, Honors in Chemistry,CHM
-0,CHM401, Research for Undergrad,CHM
-0,CHM411, Modern Instrument Methods,CHM
-0,CHM432, Chemistry Seminar,CHM
-0,CHM467, Intermediate Biochemistry,CHM
-0,CHM478, Appl Microscopy in Research,CHM
-0,CHM485, Independent Study,CHM
-0,CHM491, Capstone Experience,CHM
-0,CI101, Math for Elem Teachers I,CI
-0,CI201, Math for Elem Teachers II,CI
-0,CI248, Intro to Science Elem Ed,CI
-0,CI301, Teach Elem/Middle Mathematics,CI
-0,CI321, ECE Curr and Methods,CI
-0,CI342, Lit & Lang Arts Methods,CI
-0,CI345, Crit Read Writ & Think,CI
-0,CI348, Phy Sci & Engr for Elem Ed,CI
-0,CI360, Social Studies Methods Elem,CI
-0,CI402, Teach Mid Child Learners,CI
-0,CI405, Student TeachingElem Ed,CI
-0,CI407, Residency II  Elementary,CI
-0,CI415, Int Meth & Mat: Sec Ed,CI
-0,CI442, Instr & Clrm Mgt in Elem Ed,CI
-0,CI446, The Process of Reading Part II,CI
-0,CI447, Inte Read/Lang Arts: Elem Edu,CI
-0,CI448, Science Methods: Elem Edu,CI
-0,CI449, Instr & Clarm Mgt Sec Ed,CI
-0,CI450, Stu Teach Secondary Ed,CI
-0,CI451, Residency II  Secondary,CI
-0,CI452, Mce: Supervised Stu Teach,CI
-0,CI459, Multicult Influence in Ed,CI
-0,CI470, Residency I Clinical,CI
-0,CI471, Residency I Clinical,CI
-0,CI472, Residency I Clinical,CI
-0,CISP320, Survey Exceptional Child,CISP
-0,CISP420, Survey Except Child II,CISP
-0,CISP421, Child with Exceptionalities,CISP
-0,CISP422, Differentiate Instruction,CISP
-0,CISP427, Introduction to Autism,CISP
-0,CISP428, Special Needs in Erly Child Ed,CISP
-0,CISP439, Assessment in Sp Ed,CISP
-0,CISP440, Stu Teach Multicategorical,CISP
-0,CISP442, Residency II  Multicategoric,CISP
-0,CISP445, Intervent Preschool Sp Ed,CISP
-0,CISP453, Curr Methods Mild to Moderate,CISP
-0,CISP454, Families of Except Students,CISP
-0,CISP455, Field Exp Preschool Sp Ed,CISP
-0,CIT150, Spreadsheet and Database Apps,CIT
-0,CIT260, Instrumentation,CIT
-0,CIT263, Web Programming I,CIT
-0,CIT313, Web Programming II,CIT
-0,CIT333, Software Engineering II,CIT
-0,CIT352, Network Protocols and Admin,CIT
-0,CIT365, Database Management,CIT
-0,CIT416, Advanced Web Programming,CIT
-0,CIT441, Game Development II:3D,CIT
-0,CIT443, Game Development III: AI,CIT
-0,CIT446, 3D Modeling and Animation,CIT
-0,CIT470, Internship in CIT,CIT
-0,CIT480, SpTp: Emerging Topics in CS,CIT
-0,CIT483, SpTp: Game Design for Impact,CIT
-0,CIT485, Independent Study,CIT
-0,CIT490, Capstone Project in CIT,CIT
-0,CJ200, Intro to Criminal Justice,CJ
-0,CJ211, Intro to Law Enforcement,CJ
-0,CJ221, Intro to Criminal Courts,CJ
-0,CJ231, Intro to Corrections,CJ
-0,CJ300, Admin of Criminal Justice,CJ
-0,CJ302, CJ Research Methods,CJ
-0,CJ314, Crime Scene & Investigations,CJ
-0,CJ322, Criminal Law,CJ
-0,CJ323, Criminal Procedure,CJ
-0,CJ325, Juvenile Justice,CJ
-0,CJ400, Applied Ethics in CJ,CJ
-0,CJ404, Theoretical Criminology,CJ
-0,CJ417, CJ Decision Making,CJ
-0,CJ418, Crime and Pop Culture,CJ
-0,CJ426, Civil Liability Issues CJ,CJ
-0,CJ440, CJ Response to Dom Violence,CJ
-0,CJ492, Senior Seminar,CJ
-0,CL232, Greek & Roman Drama (CT),CL
-0,CL319, Classical Mythology,CL
-0,CL435, Greek Civilization,CL
-0,CL477, RTTP: Greece and Rome,CL
-0,CL490," Sen Sem: GoddessesPR: ENG102 Minimum Grade D , or ENG302 Minimum Grade D , or ENG201H Minimum Grade D , or YGS162 Minimum Grade D , or IST201 Minimum Grade D , or CL231 Minimum Grade D , or CL232 Minimum Grade D , or CL233 Minimum Grade D , or CL319 Minimum Grade D , or PHL200 Minimum Grade D , or PHL201 Minimum Grade D , or PHL303 Minimum Grade D , or PHL321 Minimum Grade D , or PHL340 Minimum Grade D , or PHL353 Minimum Grade D , or RST205 Minimum Grade D , or RST206 Minimum Grade D , or RST300 Minimum Grade D , or RST304 Minimum Grade D , or RST320 Minimum Grade D , or RST325 Minimum Grade D , or ENG201 Minimum Grade D",CL
-0,CLS105, MedicalLab Terminology (CT),CLS
-0,CLS200, Clinical Biochemistry,CLS
-0,CLS210, Clinical Immunohematology,CLS
-0,CLS220, Clinical Microbiology,CLS
-0,CLS255, Clinical Lab Problems,CLS
-0,CLS285, Independent Study,CLS
-0,CLS310, Clin Immun & Mol Diag,CLS
-0,CLS464, Lab Instrumen Inform Sys,CLS
-0,CLS466, Diagnostic Physiology,CLS
-0,CLS468, Clinical Lab Research,CLS
-0,CLS472, Adv CLS Clinical Practicum I,CLS
-0,CLS473, Adv CLS Clinical Practicum II,CLS
-0,CLS485, Independent Study,CLS
-0,CMM103, Fund SpeechCommunication,CMM
-0,CMM104H, Honors in Speech Comm,CMM
-0,CMM207, Business Communication,CMM
-0,CMM213, Communication in Relationships,CMM
-0,CMM239, Communication and Film,CMM
-0,CMM271, Intercollegiate Debate,CMM
-0,CMM302, Professional Presentations,CMM
-0,CMM308, Persuasive Communication,CMM
-0,CMM315, Communication in Groups,CMM
-0,CMM316, Legal Communication,CMM
-0,CMM319, Leadership Dynamics,CMM
-0,CMM322, Intercultural Communication,CMM
-0,CMM371, Intercollegiate Debate,CMM
-0,CMM374, Health Communication,CMM
-0,CMM478, Communication Capstone,CMM
-0,CMM480, SpTp: Effective Workplace Comm,CMM
-0,CMM485, Independent Study,CMM
-0,CMM490, Internship,CMM
-0,CS105, Expl World with Computing (CT),CS
-0,CS110, Computer Science I,CS
-0,CS120, Computer Science II,CS
-0,CS210, Data Structures and Algorithms,CS
-0,CS215, Adv Data Struct and Algorithms,CS
-0,CS300, Programming Languages,CS
-0,CS310, Software Engineering II,CS
-0,CS402, Computer Architecture,CS
-0,CS410, Database Engineering,CS
-0,CS430, Cyber Security,CS
-0,CS435, Cyber Risk,CS
-0,CS475, Internship,CS
-0,CS480, SpTp: Emerging Topics in CS,CS
-0,CS481, SpTp: Deep Learning In Med Img,CS
-0,CS482, SpTp: Zero Trust Architecture,CS
-0,CS483, SpTp: Game Design for Impact,CS
-0,CS490, Senior Project,CS
-0,CYBR330, Cyber Security,CYBR
-0,CYBR435, Cyber Risk,CYBR
-0,CYBR475, Internship,CYBR
-0,CYBR490, Senior Project,CYBR
-0,DAN101, Introduction to Dance,DAN
-0,DAN270, Practicum,DAN
-0,DAN280, SpTp: Spongebob the Musical,DAN
-0,DAN320, Modern Dance Technique,DAN
-0,DH201, Intro to Digital Humanities,DH
-0,DTS202, Introductory Foods,DTS
-0,DTS210, Nutrition,DTS
-0,DTS302, FS Safety & Sys Mgt II,DTS
-0,DTS310, Life Span Nutrition,DTS
-0,DTS403, Advanced Nutrition,DTS
-0,DTS410, Cross Cultural Foods,DTS
-0,DTS470, Medical Nutrition Therapy II,DTS
-0,DTS480, SpTp: Knowledge/Skills for RDN,DTS
-0,ECE102, Early Childhood Programs (CT),ECE
-0,ECE204, Parenting,ECE
-0,ECE215, Family Relationships,ECE
-0,ECE303, Child Development,ECE
-0,ECE420, Infant/Toddler Environs & Rela,ECE
-0,ECE430, Preschool Curr and Methods,ECE
-0,ECE431, Guid Young Child Pract,ECE
-0,ECE435, Admin Early Child Program,ECE
-0,ECE472, Early Childhood Capstone,ECE
-0,ECN200, Survey of Economics,ECN
-0,ECN250, Principles Microeconomics,ECN
-0,ECN253, Principles Macroeconomics,ECN
-0,ECN301, Quantitative Methods ECN/FIN,ECN
-0,ECN310, Money and Banking,ECN
-0,ECN326, Int Macroeconomic Analys,ECN
-0,ECN408, Comparative Econ Systems,ECN
-0,ECN420, International Trade,ECN
-0,ECN456, Labor Economics,ECN
-0,ECN466, Economics Workshop,ECN
-0,ECN485, Independent Study,ECN
-0,ECN490, Internship,ECN
-0,EDF200, PreResidency Clinical,EDF
-0,EDF201, Ed Psych Developing Learner,EDF
-0,EDF435, Classroom Assessment,EDF
-0,EDF475, Schools in a Diverse Society,EDF
-0,EE202, Circuits II,EE
-0,EE204, Intro to Digital Systems,EE
-0,EE211, Intro to Computer Engineering,EE
-0,EE330, Random Signals and Systems,EE
-0,EE360, Control Systems,EE
-0,EE370, Electric Machinery,EE
-0,EE375, Communcation Systems I,EE
-0,EE380, Microprocessor Design,EE
-0,EE420, Capstone Design,EE
-0,EE481, SpTp: Arc Flash Analysis,EE
-0,ENG101, Beginning Composition,ENG
-0,ENG101P, Beginning Composition Plus,ENG
-0,ENG200, Texting the World (CT),ENG
-0,ENG200H, Texting the World (CT),ENG
-0,ENG201, Advanced Composition,ENG
-0,ENG203, Appalachian Literature,ENG
-0,ENG204, Writing for the Workplace,ENG
-0,ENG205, Popular Literature (CT),ENG
-0,ENG209, Literature of Fantasy,ENG
-0,ENG211, Science Fiction,ENG
-0,ENG214, Intro to Comics,ENG
-0,ENG215, Good Novels,ENG
-0,ENG221, Postcolonial Literature,ENG
-0,ENG231, Good Stories,ENG
-0,ENG232, Good Films,ENG
-0,ENG235, Crime and Sensation Literature,ENG
-0,ENG240, African American Literatures,ENG
-0,ENG241, Multicultural Literatures,ENG
-0,ENG242, Women Writers,ENG
-0,ENG263, Intro Digital Literary Studies,ENG
-0,ENG314, Intro to Professional Writing,ENG
-0,ENG344, Introduction to Film Studies,ENG
-0,ENG350, Intro to Textual Analysis,ENG
-0,ENG354, Scientific & Tech Writing,ENG
-0,ENG355, Intro to Critical Theory,ENG
-0,ENG360, Intro Creative Writing,ENG
-0,ENG377, Creative Writing Poetry,ENG
-0,ENG378, Creative Writing Fiction,ENG
-0,ENG379, Creative Writing: Nonfiction,ENG
-0,ENG407," Writing, Editing & Doc Design",ENG
-0,ENG410, Shaks Comedy Tragedy & Rom,ENG
-0,ENG414, 19th C British Novel,ENG
-0,ENG418, Addiction Literature,ENG
-0,ENG419, Approaches Teach Lit,ENG
-0,ENG424, American Literature after 1914,ENG
-0,ENG427, Studies in Authors or Genre,ENG
-0,ENG430, Young Adult Literature,ENG
-0,ENG432, Contemporary Literature,ENG
-0,ENG439, Professional Writing Theory,ENG
-0,ENG440, Selected Topics in Film,ENG
-0,ENG445, Screenwriting,ENG
-0,ENG467, Visual Rhetoric,ENG
-0,ENG470, Form/Theory: Creative Writing,ENG
-0,ENG476, Structures of English Language,ENG
-0,ENG478, Intro to Sociolinguistics,ENG
-0,ENG479, MultiGenre Creat Writ Wkshp,ENG
-0,ENG480, SpTp: Multigenre CW WorkshopPR: ENG350,ENG
-0,ENG480, SpTp: Short Story,ENG
-0,ENG481, SpTp: Bible as Literature,ENG
-0,ENG482, SpTp: Lit of Health & Healing,ENG
-0,ENG485, Independent Study,ENG
-0,ENG490, Internship,ENG
-0,ENG499, Senior Capstone,ENG
-0,ENGR102, Introduction to CAD,ENGR
-0,ENGR111, Engineering Computations,ENGR
-0,ENGR214, Dynamics,ENGR
-0,ENGR216, Mech of Deformable Bodies,ENGR
-0,ENGR217, Engineering Career Preparation,ENGR
-0,ENGR219, Engineering Thermodynamics,ENGR
-0,ENGR222, Engr Cost Analysis & Economy,ENGR
-0,ENGR330, Engineering Research,ENGR
-0,ENGR473, Capstone Senior Design,ENGR
-0,ENT200H, Smith StartUp Incubator Honors,ENT
-0,ENT220, Creativity & Innovation,ENT
-0,ENT250, Intro to Entrepreneurship,ENT
-0,ENT320, Marketing for Entrepreneurs,ENT
-0,ENT380, Social Entrepreneurship,ENT
-0,ENT467, Strategic Entrepreneurship,ENT
-0,ESS220, Fitness and Wellness,ESS
-0,ESS345, Exercise Physiology,ESS
-0,ESS375, Fitness Assess & Exerc Prescr,ESS
-0,ESS386, Adult Fitness,ESS
-0,ESS442, Princ of Strength & Cond,ESS
-0,ESS443, Prin of Strength Cond Lab,ESS
-0,ESS478, Exercise Metabolism,ESS
-0,ESS480, SpTp: Drug & Sport,ESS
-0,ESS491, Internship Exercise Science,ESS
-0,FIN321, Risk Insurance Principles,FIN
-0,FIN323, Principles of Finance,FIN
-0,FIN343, Intermediate Financial Manage,FIN
-0,FIN370, Principles of Investment,FIN
-0,FIN425, Portfolio Analysis and Manage,FIN
-0,FIN431, Futures and Options,FIN
-0,FIN440, International Fin Management,FIN
-0,FIN470, Financial Policies/Strategies,FIN
-0,FIN475, Intl Business Strategies,FIN
-0,FIN485, Independent Study,FIN
-0,FIN490, Internship,FIN
-0,FRN101, Elementary French I,FRN
-0,FRN102, Elementary French II,FRN
-0,FRN203, Intermediate French III,FRN
-0,FRN204, Intermediate French IV,FRN
-0,FRN240, French Society & Life,FRN
-0,FRN403, 19th Century French Novel,FRN
-0,FRN417, Contemporary Frn Film,FRN
-0,FRN486, Independent Study,FRN
-0,FSC224, Intro to Forensic Science,FSC
-0,FYS100, First Yr Sem Critical Thinking,FYS
-0,FYS100H, First Year SeminarHonors,FYS
-0,GEO100, Intro to Human Geography (CT),GEO
-0,GEO101, Physical Geography (CT),GEO
-0,GEO113, Web GIS,GEO
-0,GEO222, Global Environment Issues (CT),GEO
-0,GEO230, Intro to Meteorology (CT),GEO
-0,GEO300, Methods in Geography,GEO
-0,GEO317, World Regional Geography,GEO
-0,GEO355, Aviation Weather,GEO
-0,GEO405, Political Geography,GEO
-0,GEO406, Population Geography,GEO
-0,GEO410, Urban Geography,GEO
-0,GEO427, Programming GIS,GEO
-0,GEO431, Remote Sensing & Photogram,GEO
-0,GEO450, Extreme Weather,GEO
-0,GEO485, Independent Study,GEO
-0,GEO490, Internship,GEO
-0,GEO499, Senior Capstone II,GEO
-0,GER102, Elementary German II,GER
-0,GER204, Intermediate German II,GER
-0,GER240, German Society & Life,GER
-0,GER425, Grimm's Fairy Tales,GER
-0,GLY100, Earth's Fury and Fortune,GLY
-0,GLY150, Intro Oceanography,GLY
-0,GLY150L, Intro Oceanography Lab,GLY
-0,GLY200, The Dynamic Earth,GLY
-0,GLY201, The Earth Through Time,GLY
-0,GLY210L, Earth Materials Lab,GLY
-0,GLY211L, Earth Through Time Lab,GLY
-0,GLY420, Principles of Geochemistry,GLY
-0,GLY427, Fossil Fuels,GLY
-0,GLY455, Hydrogeology,GLY
-0,GLY455L, Hydrogeology Laboratory,GLY
-0,GLY485, Independent Study,GLY
-0,GLY491, Capstone Experience,GLY
-0,GRK302, Anc Intermed Greek,GRK
-0,HON200, Second Year Seminar,HON
-0,HON291, Yeager Seminar II,HON
-0,HON293, Yeager Seminar IV,HON
-0,HON300, Honors Peer Mentors & Leaders,HON
-0,HON480, SpTp: Visual LiteracyPR: Admitted Honors College 1,HON
-0,HON480, SpTp: Mything PersonsPR: Admitted Honors College 1,HON
-0,HON480, SpTp: The Scientific AttitudePR: Admitted Honors College 1,HON
-0,HON480, SpTp: Reading Joan DidionPR: Admitted Honors College 1,HON
-0,HON480, SpTp: Law in Pop CulturePR: Admitted Honors College 1,HON
-0,HON484, Honors College Newsletter,HON
-0,HON485, Independent Study,HON
-0,HON488, Student Assoc Steering Comm,HON
-0,HON489, Honors Internship,HON
-0,HON490, TedxMarshallU Honors Interns,HON
-0,HP110, Intro to the Health Profession,HP
-0,HP210, Health Sciences Seminar,HP
-0,HP240, Intro to Human Diseases in HS,HP
-0,HP320, Intro to Res in Health Prof,HP
-0,HP420, Allied Health Sciences Admin,HP
-0,HP480, SpTp: Health Disparities,HP
-0,HP480, SpTp: Women's Health,HP
-0,HP490, Capstone,HP
-0,HS200, Comp Medical Terminology (CT),HS
-0,HS201, Intro Appl Anat & Physiol,HS
-0,HS212, Practical & Emerging Tech AT,HS
-0,HS215, Intro to Athletic Training,HS
-0,HS220, Personal Health,HS
-0,HS221, Personal Health II,HS
-0,HS222, Hlth Prov First Aid/CPR/AED,HS
-0,HS230, Orthopedic Skills,HS
-0,HS265, Fund Video Analysis Mvmt (CT),HS
-0,HS365, Functional Kinesiology,HS
-0,HS369, Motor Learning,HS
-0,HS405, Sport Psychology,HS
-0,HS410, Organ Admin in Kines,HS
-0,HS464, Pathomechanics,HS
-0,HS476, Seminar in Sports Science,HS
-0,HS478, Research Practicum Biomechanic,HS
-0,HS481, SpTp:Undstding Health Literacy,HS
-0,HS482, SpTp:Stress Mgmt & Self Aware,HS
-0,HS495, Trends in Biomechanics II,HS
-0,HST100, History Methods Lab,HST
-0,HST101, Great Civs to 1300 (CT),HST
-0,HST102, World & West 13001850 (CT),HST
-0,HST103, The World Since 1850 (CT),HST
-0,HST223, Rise & Fall Nazi Germany,HST
-0,HST230, American History to 1877 (CT),HST
-0,HST231, American Hist From 1877 (CT),HST
-0,HST300, History Research Option,HST
-0,HST303, American Military History,HST
-0,HST305, Drug Wars,HST
-0,HST306, The Holocaust,HST
-0,HST314, LGBTQ+ History of the US,HST
-0,HST366, Conspiracies in US History,HST
-0,HST392, Food and the City Since 1800,HST
-0,HST400, Senior Seminar,HST
-0,HST414, Am Civil War & Reconstruc,HST
-0,HST428, Intel & Cult Hist Mod Eur,HST
-0,HST430, Soviet Russia and Beyond,HST
-0,HST440, West Virginia History,HST
-0,HST462, The Viking World,HST
-0,HST480, SpTp: Victorian Britain,HST
-0,HST485, Independent Study,HST
-0,IE404, Quality Control,IE
-0,ITL280, SpTp:Intro to Digital Literacy,ITL
-0,ITL350, Adv Digital Literacy Skills,ITL
-0,ITL365, Instructional Technology Apps,ITL
-0,ITL400, Intro to New Literacies,ITL
-0,ITL406, Digital Citizenship,ITL
-0,ITL480, SpTp:Intro Portfolio Developmt,ITL
-0,ITL481, SpTp: Information Security,ITL
-0,ITL483, SpTp:Ethics & Info Digital Age,ITL
-0,JMC100, Fund Jrn Writing & Edit,JMC
-0,JMC101, Media Literacy,JMC
-0,JMC102, Media Toolbox,JMC
-0,JMC231, Intro to Audio Production,JMC
-0,JMC241, Media Design,JMC
-0,JMC260, Digital Imaging for JMC,JMC
-0,JMC265, Introduction to Podcasting,JMC
-0,JMC273, Practice in Radio,JMC
-0,JMC300, Reporting and News Writing,JMC
-0,JMC301, Beat Reporting,JMC
-0,JMC330, ADPR Principles and Ethics,JMC
-0,JMC332, Intro to Video Production,JMC
-0,JMC340, Basic Broadcast News,JMC
-0,JMC345, Mass Comm Law and Ethics,JMC
-0,JMC361, Digital Presence,JMC
-0,JMC373, Practice in Radio or TV,JMC
-0,JMC380, ADPR and Continuity Writing,JMC
-0,JMC383, Content Creation,JMC
-0,JMC414, Reporting Public Affairs,JMC
-0,JMC438, Public Relations Case Studies,JMC
-0,JMC439, ADPR Campaign Management,JMC
-0,JMC451, Television Reporting,JMC
-0,JMC452, Advanced TV Reporting,JMC
-0,JMC455, Race Gender & Mass Media,JMC
-0,JMC465, Multimedia Reporting,JMC
-0,JMC475, Documentary Journalism,JMC
-0,JMC481, SpTp: Experimenting w/ AI JRN,JMC
-0,JMC481, SpTp: eSports Broadcasting,JMC
-0,JMC481, SpTp: Collective 37,JMC
-0,JMC486, Independent Study,JMC
-0,JMC490, Jrn & Mass Comm Internship I,JMC
-0,JMC491, Jrn & Mass Comm Intern II,JMC
-0,JPN102, Elementary Japanese II,JPN
-0,JPN204, Intermediate Japanese IV,JPN
-0,JPN240, Japanese Culture (CT),JPN
-0,JPN315, Advanced Japanese II,JPN
-0,JPN325, Business Japanese,JPN
-0,JPN402, Readings in Adv Japanese II,JPN
-0,JPN490, Japanese Capstone,JPN
-0,LAT101, First Year Latin,LAT
-0,LAT102, First Year Latin,LAT
-0,LAT204, Intermediate Latin,LAT
-0,LAT411, Latin Prose Comp: Survey,LAT
-0,LAT485, Independent Study,LAT
-0,LAT499, Classical Language Capstone,LAT
-0,LE207, Legal Environ of Business,LE
-0,LE351, Legal Aspts Hlth Care Org,LE
-0,LE366, Entrep Law & Ethics,LE
-0,ME111, Mech Engineering Computations,ME
-0,ME240, Manufacturing Processes,ME
-0,ME325, Mechanical Engineering LabI,ME
-0,ME350, Heat Transfer,ME
-0,ME410, Kinematics & Design of Machine,ME
-0,ME420, Control Systems,ME
-0,ME425, Mechanical Engineering LabII,ME
-0,ME440, Design & Analysis Energy Sys,ME
-0,ME452, Capstone Design I,ME
-0,ME453, Capstone Design II,ME
-0,ME455, Metallurgy,ME
-0,ME473, Computational Fluid Dynamics,ME
-0,MGT218, Business Quantitative Methods,MGT
-0,MGT318, Management Analytics,MGT
-0,MGT320, Principles of Management,MGT
-0,MGT325, Project Management,MGT
-0,MGT348, Aviation Management Safety,MGT
-0,MGT354, Health Care Delivery Systems,MGT
-0,MGT355, Health Care Prods & Services,MGT
-0,MGT370, Energy Management Principles,MGT
-0,MGT419, Business & Society,MGT
-0,MGT420, Operations Management,MGT
-0,MGT422, Organizational Behavior,MGT
-0,MGT424, Human Resource Management,MGT
-0,MGT428, Negotiations,MGT
-0,MGT430, Diversity Issues in Business,MGT
-0,MGT445, International Management,MGT
-0,MGT446, Green Management,MGT
-0,MGT458, Energy Management Strategy,MGT
-0,MGT459, Aviation Management Capstone,MGT
-0,MGT460, Strategic Management,MGT
-0,MGT461, New Venture Dynamics,MGT
-0,MGT480, SpTp: HR in Pop Culture,MGT
-0,MGT485, Independent Study,MGT
-0,MGT490, Internship,MGT
-0,MI207, Imaging Procedures II,MI
-0,MI208, Pharmacology for Imaging Sci,MI
-0,MI209, Intro to Imaging Equip,MI
-0,MI210, Clinical Practice II,MI
-0,MI212, Seminar Imaging Sciences II,MI
-0,MI304, Radiographic Pathology,MI
-0,MI308, Rad Image Analysis,MI
-0,MI309, Image Acquisition II,MI
-0,MI310, Clinical Practice V,MI
-0,MI311, Seminar Imaging Sciences III,MI
-0,MI315, Small Parts Sonography,MI
-0,MI316, Abdominal Sonography II,MI
-0,MI317, Ultrasound Physics II,MI
-0,MI319, Clinical Prac II Sonograpy,MI
-0,MI322, Radiation Safety,MI
-0,MI405, CT Procedures,MI
-0,MI407, Cardiovascular Anatomy,MI
-0,MI410, Research Medical Imaging,MI
-0,MI411, Transcultural Healthcare,MI
-0,MI416, Obstetrical Sonography I,MI
-0,MI421, Gynecological Sonography II,MI
-0,MI422, Clinical Pract IV Sonography,MI
-0,MI424, Vascular Sonography II,MI
-0,MI425, Echocardiography II,MI
-0,MI426, Advanced Clinical Practice II,MI
-0,MI430, Mammography II,MI
-0,MI432, Advanced MRI Theory,MI
-0,MI435, Seminar ARRT Exam Review II,MI
-0,MI436, Sonography Registry Review II,MI
-0,MIS200, Bus Computer Applications,MIS
-0,MIS290, Prin Management Info Systems,MIS
-0,MIS310, Bus Sys Analysis & Design,MIS
-0,MIS333, Bus Telecomm Sys,MIS
-0,MIS420, Info Security Management,MIS
-0,MIS475, Strat Management Info Systems,MIS
-0,MIS480, SpTp: Research in Bus Tech,MIS
-0,MIS485, Independent Study,MIS
-0,MIS490, Internship,MIS
-0,MKT231, Principles of Selling,MKT
-0,MKT340, MKT Concepts and Applications,MKT
-0,MKT341, Integrated MKT Communications,MKT
-0,MKT344, Retail Management,MKT
-0,MKT350, Supply Chain Logistics,MKT
-0,MKT371, International Marketing,MKT
-0,MKT375, Business to Business Marketing,MKT
-0,MKT400, Social Media Marketing,MKT
-0,MKT435, Internet Marketing,MKT
-0,MKT437, Consumer Behavior,MKT
-0,MKT442, Market Research,MKT
-0,MKT445, Services Marketing,MKT
-0,MKT465, Strategic Marketing,MKT
-0,MKT480, SpTp: Bus Comm in Age of AI,MKT
-0,MKT485, Independent Study,MKT
-0,MKT490, Internship,MKT
-0,MS102, Basic Leadership,MS
-0,MS102L, Mil Sci Basic Lead Lab I,MS
-0,MS202, Leadership and Teamwork,MS
-0,MS202L, Mil Sci Basic Lead Lab II,MS
-0,MS221, Army Phys Readiness Prog,MS
-0,MS281, SpTp:Adv Platoon Tactical PlanPR: MS301,MS
-0,MS284, Military History,MS
-0,MS302, Leadership and Ethics,MS
-0,MS302L, Adv Course Lead Lab III,MS
-0,MS402, Officership,MS
-0,MS402L, Adv Course Lead Lab IV,MS
-0,MTH102, Prep for College Math B,MTH
-0,MTH121, Concepts and Applications (CT),MTH
-0,MTH121B, Cncpts & AppsExpanded (CT),MTH
-0,MTH122, Plane Trigonometry,MTH
-0,MTH127, College AlgebraExpanded,MTH
-0,MTH130, College Algebra,MTH
-0,MTH132, Precalculus with Sci Applica,MTH
-0,MTH140, Applied Calculus,MTH
-0,MTH160, Applied Math Reasoning (CT),MTH
-0,MTH220, Discrete Structures,MTH
-0,MTH229, Calculus/Analytic Geom I (CT),MTH
-0,MTH230, Calculus/Analytic Geom II,MTH
-0,MTH231, Calculus/Analytic Geom III,MTH
-0,MTH300, Intro to Higher Math,MTH
-0,MTH311, Math for Secondary Educators 2,MTH
-0,MTH329, Elementary Linear Algebra,MTH
-0,MTH331, Linear Algebra,MTH
-0,MTH335, Ordinary Diff Equations,MTH
-0,MTH416, Advanced Differential Equation,MTH
-0,MTH428, Advanced Calculus II,MTH
-0,MTH430, Topology I,MTH
-0,MTH440, Graph Th and Combinatorics,MTH
-0,MTH452, Modern Algebra II,MTH
-0,MTH480, SpTp: Practical Mathematics,MTH
-0,MTH485, Independent Study,MTH
-0,MTH490, Internship in Mathematics,MTH
-0,MTH491, Senior Seminar,MTH
-0,MUS100, Applied Music Laboratory,MUS
-0,MUS101, Basic Musicianship,MUS
-0,MUS109, Mus Theatre Musicianship Lab,MUS
-0,MUS110, The Professional Musician,MUS
-0,MUS112, Elementary Music Theory II,MUS
-0,MUS114, Elem Aural Skills II,MUS
-0,MUS142, Music in Society,MUS
-0,MUS142H, Music in Society Honors,MUS
-0,MUS179A, Class Piano,MUS
-0,MUS179B, Class Piano,MUS
-0,MUS179D, Class Piano,MUS
-0,MUS180, Applied Composition,MUS
-0,MUS181, Saxophone,MUS
-0,MUS182, Flute,MUS
-0,MUS183, Oboe,MUS
-0,MUS184, Clarinet,MUS
-0,MUS185, Bassoon,MUS
-0,MUS186, French Horn,MUS
-0,MUS187, Trumpet,MUS
-0,MUS188, Trombone,MUS
-0,MUS189, Euphonium,MUS
-0,MUS190, Tuba,MUS
-0,MUS191, Violin,MUS
-0,MUS192, Viola,MUS
-0,MUS193, Cello,MUS
-0,MUS194, String Bass,MUS
-0,MUS195, Piano,MUS
-0,MUS196, Voice,MUS
-0,MUS197, Organ,MUS
-0,MUS198, Percussion,MUS
-0,MUS199, Guitar,MUS
-0,MUS210, Intro to Electronic Music (CT),MUS
-0,MUS212, Advanced Music Theory II,MUS
-0,MUS214, Adv Aural Skills II,MUS
-0,MUS217, Jazz Theory,MUS
-0,MUS218, Intro to Music Technology,MUS
-0,MUS219, Digital Recording Techniques,MUS
-0,MUS227, History of Popular Music,MUS
-0,MUS232, Jazz Improvisation II,MUS
-0,MUS250, History of Jazz,MUS
-0,MUS263, Brass Techniques,MUS
-0,MUS264, Percussion Techniques,MUS
-0,MUS290, Music History to 1750,MUS
-0,MUS310, Perf Arts Entrepreneurship,MUS
-0,MUS312, Vocal Techniques,MUS
-0,MUS320, Instrumental Arranging,MUS
-0,MUS332, Jazz Improvisation IV,MUS
-0,MUS339, Mat & Meth Instru Mus 512,MUS
-0,MUS340, Mat & Meth Chor Grn Mus 512,MUS
-0,MUS342, Mus in Elementary Classroom,MUS
-0,MUS361, Music History Since 1900,MUS
-0,MUS371, African Drum & Dance Ens,MUS
-0,MUS376, Recital,MUS
-0,MUS380, Applied Composition,MUS
-0,MUS381, Saxophone,MUS
-0,MUS382, Flute,MUS
-0,MUS383, Oboe,MUS
-0,MUS384, Clarinet,MUS
-0,MUS385, Bassoon,MUS
-0,MUS386, French Horn,MUS
-0,MUS387, Trumpet,MUS
-0,MUS388, Trombone,MUS
-0,MUS389, Euphonium,MUS
-0,MUS390, Tuba,MUS
-0,MUS391, Violin,MUS
-0,MUS392, Viola,MUS
-0,MUS393, Cello,MUS
-0,MUS394, String Bass,MUS
-0,MUS395, Piano,MUS
-0,MUS396, Voice,MUS
-0,MUS397, Organ,MUS
-0,MUS398, Percussion,MUS
-0,MUS399, Guitar,MUS
-0,MUS403, Choral Union,MUS
-0,MUS404, University Chorus,MUS
-0,MUS405, A Cappella Ensemble,MUS
-0,MUS406, Opera Workshop,MUS
-0,MUS407, Chamber Choir,MUS
-0,MUS408, Orchestra,MUS
-0,MUS415, Advanced Conducting,MUS
-0,MUS427, Music Business II,MUS
-0,MUS429, Vocal Pedagogy,MUS
-0,MUS437, Brass Band of the TriState,MUS
-0,MUS445, Piano Ensemble,MUS
-0,MUS452, Cello Ensemble,MUS
-0,MUS453, Guitar Ensemble,MUS
-0,MUS455, String Ensemble,MUS
-0,MUS456, Woodwind Ensemble,MUS
-0,MUS457, Percussion Ensemble,MUS
-0,MUS458, Brass Ensemble,MUS
-0,MUS459, Jazz Ensemble,MUS
-0,MUS460, Jazz Improv Ensemble,MUS
-0,MUS465, Symphonic Band,MUS
-0,MUS467, Wind Symphony,MUS
-0,MUS468, Sixth Man Band,MUS
-0,MUS476, Senior Recital,MUS
-0,MUS486, Independent Study,MUS
-0,MUS488, Independent Study,MUS
-0,MUS497, Capstone Project in Music,MUS
-0,NRE111, Living Systems,NRE
-0,NRE111L, Living Systems Lab,NRE
-0,NRE212, Energy,NRE
-0,NRE220, Human Dimensions Nat Res (CT),NRE
-0,NRE320, Nature Enviro Problems,NRE
-0,NRE321, Resol Environ Problems,NRE
-0,NRE322, Assess I: Terrestrial Systems,NRE
-0,NRE400, Soil Fertility/Plant Nutrition,NRE
-0,NRE423, GIS and Data Systems,NRE
-0,NRE470, ES Internship,NRE
-0,NRE480, SpTp: Adv Aquatic Inverts,NRE
-0,NRE481, SpTp: Hospitality and Tourism,NRE
-0,NRE482, SpTp:Mgmt of Serv Organization,NRE
-0,NRE483, SpTp: Resort Management,NRE
-0,NRE485, Independent Study,NRE
-0,NRE490, ES/NRRM Capstone Prep,NRE
-0,NRE491, ES Senior Capstone,NRE
-0,NRRM200, Analytical Methods: Statistics,NRRM
-0,NRRM301, Intro to Outdoor Recreation,NRRM
-0,NRRM380, Rec Resource Oper and Admin,NRRM
-0,NRRM411, Rec Resource Planning & Design,NRRM
-0,NUR120, Introduction to Nursing,NUR
-0,NUR220, Health Alterations I,NUR
-0,NUR222, Found of Prof Nursing II,NUR
-0,NUR225, Psychiatric Nursing,NUR
-0,NUR230, Health Alterations II,NUR
-0,NUR235, MaternalChild Nursing,NUR
-0,NUR241, Health Alterations III,NUR
-0,NUR300, Transition to Nursing Practice,NUR
-0,NUR305, Concepts in Prof Nursing,NUR
-0,NUR314, Fundamentals of Nursing Care,NUR
-0,NUR318, Family and Chronic Illness,NUR
-0,NUR319, Phys Assess Across Lifespan,NUR
-0,NUR321, Care of Childbearing Families,NUR
-0,NUR322, Psych / Mental Health Nursing,NUR
-0,NUR328, Adult Nursing II,NUR
-0,NUR333, Health Physical Assessment,NUR
-0,NUR350, Pharmacology for Nurses,NUR
-0,NUR400, Transcultural Nursing,NUR
-0,NUR408, Pediatric Nursing,NUR
-0,NUR410, Community Nursing for RN,NUR
-0,NUR416, Intro Research EBP,NUR
-0,NUR418, Contemporary Nursing,NUR
-0,NUR421, Community / Public Health Nurs,NUR
-0,NUR422, Nursing Capstone Practicum,NUR
-0,NUR425, NCLEX Success,NUR
-0,NUR427, Prof Engagement Nursing,NUR
-0,NUR485, Independent Study,NUR
-0,PEL113, Basketball,PEL
-0,PEL120, Self Defense,PEL
-0,PEL132, Beginning Volleyball,PEL
-0,PEL140, Beginning Tennis,PEL
-0,PEL142, Beginning Badminton,PEL
-0,PEL147, Beginning Soccer,PEL
-0,PEL170, Beginning Racquetball,PEL
-0,PEL173, Rock Climbing,PEL
-0,PEL175, Core Conditioning,PEL
-0,PEL180, Yoga,PEL
-0,PEL252, Touch Football,PEL
-0,PEL280, SpTp: Disc Golf,PEL
-0,PEL281, SpTp: Stretch & Strength,PEL
-0,PEL282, SpTp: Pickleball,PEL
-0,PEL283, SpTp: Strength Training,PEL
-0,PEL290, Intermediate Yoga,PEL
-0,PEL405, Lifeguarding,PEL
-0,PH101, Intro to Public Health,PH
-0,PH105, Intro to Epidemiology,PH
-0,PH220, Social & Behavioral Health,PH
-0,PH260, Community Health & Devpt,PH
-0,PH475, Comm/Non Comm Disease,PH
-0,PHL200, Intro Phil Ancient Period (CT),PHL
-0,PHL201, Intro Phil Modern Period (CT),PHL
-0,PHL202, Ethics of Health Care (CT),PHL
-0,PHL203, Philosophy & Human Exist (CT),PHL
-0,PHL280, SpTp: AI and Ethics,PHL
-0,PHL321, Current Phil Trends,PHL
-0,PHL330, Philosophy of Sex,PHL
-0,PHL460, Phil of Politics & Power,PHL
-0,PHL488, Independent Study,PHL
-0,PHY101, Conceptual Physics,PHY
-0,PHY101L, Conceptual Physics Lab,PHY
-0,PHY201, College Physics I,PHY
-0,PHY202, General Physics I Laboratory,PHY
-0,PHY203, College Physics II,PHY
-0,PHY204, General Physics 2 Laboratory,PHY
-0,PHY211, University Physics I,PHY
-0,PHY213, University Physics II,PHY
-0,PHY263, Enhancement for Physics II,PHY
-0,PHY304, Optics,PHY
-0,PHY320, Intro Modern Physics,PHY
-0,PHY405, Optics Lab,PHY
-0,PHY421, Modern Physics Lab,PHY
-0,PHY486, Independent Study,PHY
-0,PHY492, Capstone,PHY
-0,PS101, Introductory Astronomy (CT),PS
-0,PS486, Independent Study,PS
-0,PSC104, American Government (CT),PSC
-0,PSC201," Politics, Media, and Culture",PSC
-0,PSC202, State and Local Government,PSC
-0,PSC207, Comparative Politics (CT),PSC
-0,PSC302, Models of Public Policy,PSC
-0,PSC312, Research in Political Science,PSC
-0,PSC410, Russian Politics,PSC
-0,PSC427, Shapers and Definers,PSC
-0,PSC431, Global Terrorism,PSC
-0,PSC440, Power in American Society,PSC
-0,PSC442, Politics of Poverty,PSC
-0,PSC450, Administrative Law,PSC
-0,PSC453, Public Finance Management,PSC
-0,PSC461, American Cities,PSC
-0,PSC481," SpTp:Undrstnd Civil Lib, Right",PSC
-0,PSC483, SpTp: State Practicum,PSC
-0,PSC489, Seminar in Public Service,PSC
-0,PSC490, Public Service Internship,PSC
-0,PSY100, Psychology as a Major,PSY
-0,PSY201, Introductory Psychology (CT),PSY
-0,PSY223, Elem Behavioral Stat,PSY
-0,PSY250, Psychology of Pop Culture,PSY
-0,PSY300, Paranormal Phenomena,PSY
-0,PSY302, Social Psychology,PSY
-0,PSY311, Child Development,PSY
-0,PSY312, Adult Development,PSY
-0,PSY323, Experimental Psychology,PSY
-0,PSY324, Sensation & Perception,PSY
-0,PSY330, Human Sexual Behavior,PSY
-0,PSY360, Personality,PSY
-0,PSY405, Sport Psychology,PSY
-0,PSY406, Psychometrics,PSY
-0,PSY408, Abnormal Psychology,PSY
-0,PSY416, Psychology of Learning,PSY
-0,PSY420, Intro to IO Psychology,PSY
-0,PSY425, Psychology of Cinema Symbolism,PSY
-0,PSY430, Psychology of Women and Gender,PSY
-0,PSY440, Physiological Psychology,PSY
-0,PSY456, Research in Psychology,PSY
-0,PSY457, Research in Psychology,PSY
-0,PSY460, History & Systems,PSY
-0,PSY480, SpTp:Self Lead & Persnl Grwth,PSY
-0,PSY481, SpTp: Interpersonal Dynamics,PSY
-0,PSY482, SpTp:Psychology of Mindfulness,PSY
-0,PSY483," SpTp: Psychology, Social Media",PSY
-0,PSY485, Independent Study,PSY
-0,PSY487, Independent Study,PSY
-0,PSY490, Intro to Teaching in Psych,PSY
-0,PSY499," Cap: Community PsychologyPR: PSY223 Minimum Grade D , and PSY323 Minimum Grade D",PSY
-0,PSY499," Cap: Evolutionary PsychologyPR: PSY223 Minimum Grade D , and PSY323 Minimum Grade D",PSY
-0,PSY499," Cap: Clinical PracticumPR: PSY223 Minimum Grade D , and PSY323 Minimum Grade D",PSY
-0,RSP201, Pulmonary Pathophys,RSP
-0,RSP203, Respiratory Internship I,RSP
-0,RSP206, Neonatal/Pediatric Care,RSP
-0,RSP210, Respiratory Internship III,RSP
-0,RSP212, Acute/Chronic Pulmonary Mgt,RSP
-0,RSP303, Clinical Respiratory Education,RSP
-0,RSP304, Adv Neonatal & Pediatrics,RSP
-0,RSP307, Adv Tech Adult Critical Care,RSP
-0,RSP308, Resp Mgt & Quality Improvement,RSP
-0,RSP314, Adv Mechanical Ventilation,RSP
-0,RSP401, Intro to Sleep Disorders,RSP
-0,RSP402, Respiratory MGT,RSP
-0,RSP403, Respiratory Care Research,RSP
-0,RSP404, Adv Respiratory Care Practicum,RSP
-0,RSP407, Clinical Decision Making,RSP
-0,RSP420, Capstone in Respiratory Care,RSP
-0,RSP485, Independent Study,RSP
-0,RSP486, Independent Study,RSP
-0,RSP487, Independent Study,RSP
-0,RSP488, Independent Study,RSP
-0,RST205, Religious Trads of West,RST
-0,RST206, Religious Traditions Asia,RST
-0,RST225, Lit of New Testament,RST
-0,RST300, The Nature of Religion,RST
-0,RST304, The Teachings of Jesus,RST
-0,RST311, Jewish Holocaust,RST
-0,RST351, Classics of Rel Lit,RST
-0,RST360, Hindu Mysticism,RST
-0,RST361, Buddhism,RST
-0,RST480, SpTp: Islam,RST
-0,RST485, Independent Study,RST
-0,RST490," Sen Sem: GoddessesPR: ENG102 , or ENG302 , or ENG201H , or YGS162 , or IST201 , or CL231 , or CL232 , or CL233 , or CL319 , or PHL200 , or PHL201 , or PHL303 , or PHL321 , or PHL340 , or PHL353 , or RST205 , or RST206 , or RST300 , or RST304 , or RST320 , or RST325",RST
-0,SCLA101, Transformative Texts CMM (CT),SCLA
-0,SCLA102, Transformative Texts ENG,SCLA
-0,SFT235, Intro to Occup Safety (CT),SFT
-0,SFT372, Safety & Industrial Tech,SFT
-0,SFT373, Prin Ergonomics & Hum Factors,SFT
-0,SFT373L, Prin of Ergonomics Lab,SFT
-0,SFT465, Incident Investigation and PSM,SFT
-0,SFT482, SpTp: Intro to Prof Safety,SFT
-0,SFT483, SpTp: Safety Leadership,SFT
-0,SFT490, Safety Internship,SFT
-0,SFT498, Envir Safety & Health Legis,SFT
-0,SFT499, Dev & Mgt of Occup Safety Prog,SFT
-0,SOC200, Understanding Society (CT),SOC
-0,SOC280, SpTp: Success Strategies,SOC
-0,SOC345, Social Statistics,SOC
-0,SOC362," Health, Culture and Society",SOC
-0,SOC470, Field Experience,SOC
-0,SOC480, SpTp: Food & Climate Nexus,SOC
-0,SOC481, SpTp: Consumerism in Society,SOC
-0,SOC482, SpTp:Mgt Problems in Family,SOC
-0,SOC483, SpTp: Human Diversity,SOC
-0,SOC493, Senior Seminar II,SOC
-0,SPN101, Introductory Spanish,SPN
-0,SPN102, Introductory Spanish II,SPN
-0,SPN203, Intermediate Spanish III,SPN
-0,SPN204, Intermediate Spanish IV,SPN
-0,SPN240, Hispanic Culture (CT),SPN
-0,SPN335, Latin Am Culture & Civiliza,SPN
-0,SPN416, Contemporary Spanish Lit,SPN
-0,STA150, Foundations of Statistics (CT),STA
-0,STA150B, Foundations of StatsExpd (CT),STA
-0,STA150L, Foundations of Statistics Lab,STA
-0,STA225, Introductory Statistics (CT),STA
-0,STA345, Applied Prob and Stat,STA
-0,STA413, Experimental Designs,STA
-0,STA420, Nonparametric Statistics,STA
-0,STA435, Statistical Data Mining,STA
-0,STA446, Probability & Statistics II,STA
-0,STA485, Independent Study,STA
-0,STHM218, Sports in Society (CT),STHM
-0,STHM250, Sport Management (CT),STHM
-0,STHM270, Sport Tourism,STHM
-0,STHM320, Sports & Campus Rec Mgmt,STHM
-0,STHM380, Sport Marketing,STHM
-0,STHM381, Financing Sports,STHM
-0,STHM390, Sport MGT PreInternship,STHM
-0,STHM401, Ethics in Sport,STHM
-0,STHM416, Facility Design & Management,STHM
-0,STHM430, Sport Law,STHM
-0,STHM475, Capstone Seminar,STHM
-0,STHM485, Independent Study,STHM
-0,STHM490, Internship,STHM
-0,STHM496, Olympic Games,STHM
-0,SWK203, Intro To Social Work,SWK
-0,SWK307, Child Welfare,SWK
-0,SWK310, Human Behav Soc Envir I,SWK
-0,SWK312, Hum Behav Soc Envir,SWK
-0,SWK317, Family Victimology,SWK
-0,SWK320, Social Work Practice I,SWK
-0,SWK322, Social Work Practice II,SWK
-0,SWK330, Soc Wel Issues in Appalachia,SWK
-0,SWK332, Soc Wel Policy & Legislation,SWK
-0,SWK340, Social Work Research,SWK
-0,SWK370, Practicum I,SWK
-0,SWK475, Social Work Seminar,SWK
-0,SWK480, SpTp:SWK in Healthcare Setting,SWK
-0,SWK481, SpTp:Psychopharm & Doc,SWK
-0,THE112, Theatre Appreciation,THE
-0,THE220, Stage Movement I: Foundations,THE
-0,THE230, Auditioning Techniques,THE
-0,THE240, Stage Lighting I,THE
-0,THE245, Intro to Technical Theatre,THE
-0,THE250, Introduction to Costuming,THE
-0,THE270, Theatre Practicum,THE
-0,THE320, Acting II: Scene Study,THE
-0,THE354, Stage Makeup,THE
-0,THE361, Scene Painting,THE
-0,THE437, Directing I,THE
-0,THE441, Theatre Hist Since 1660,THE
-0,THE480, SpTp: Radium Girls,THE
-0,THE486, Independent Study,THE
-0,THE487, Independent Study,THE
-0,THE488, Independent Study,THE
-0,THE490, Professional Theatre Residency,THE
-0,THE499, Senior Capstone Project,THE
-0,UNI100, Freshman First Class,UNI
-0,UNI102, Strat for Academic Success,UNI
-0,UNI103, Career Planning Undecided,UNI
-0,UNI104, Adv Strat for Acad Success,UNI
-0,UNI204, Strategy Successful Career Dev,UNI
-0,UNI280, SpTp: Innovating for Success,UNI
-0,UNI281, SpTp: Herd Academy Internship,UNI
-0,UNI301, Peer Leadership I,UNI
-0,UNI450, Advanced WorkBased Experience,UNI
-0,WELL305, HE & PE in Early Child Prog,WELL
-0,WELL426, Curriculum in Health Ed,WELL
-0,WELL435, Adapted PE & Mainstream,WELL
-0,WS101, Intro to Women's Studies,WS
+id,name,subject_id
+ACC198, Accounting Professionalism,ACC
+ACC215, Intro Financial Accounting(CT),ACC
+ACC216, Intro Managerial Accounting,ACC
+ACC311, Intermediate Accounting I,ACC
+ACC312, Intermediate Accounting II,ACC
+ACC318, Cost Accounting I,ACC
+ACC341, Acc Information Systems,ACC
+ACC348, Federal Taxation,ACC
+ACC429, Auditing I,ACC
+ACC440, Accounting Analytics,ACC
+ACC448, Federal Income Tax II,ACC
+ACC480, SpTp: Cyber Inv ACC Data,ACC
+ACC490, Internship,ACC
+ACC499, Professional and Ethics Sem,ACC
+ACE304, Safety in CTE,ACE
+ACE305, Methods of Examination in CTE,ACE
+ACE307, Computer Applications in CTE,ACE
+ACE409, Coord CTE Youth Activities,ACE
+ACE421, Teach Special Students in CTE,ACE
+ACE422, Occup Update Back to Industry,ACE
+ACE423, Occup Update Bus./Ind. Enrich,ACE
+ACE424, Occup Update Instructor Dev,ACE
+ACE425, Occup Update Other,ACE
+ACE499, Senior Project in CTE,ACE
+AM298, Sophomore Review,AM
+AM498, Senior PreCapstone,AM
+AM499, Senior Capstone Project,AM
+AMT101, Beginning Aviation Maintenance,AMT
+AMT102, Regulations & Publications,AMT
+AMT103, Technical Skills & Practices,AMT
+AMT105, Aviation Utility Systems,AMT
+AMT109, Aviation Electronics,AMT
+AMT110, Aviation Power Systems,AMT
+AMT202, Sheet Metal Structures,AMT
+AMT204, Propeller & Control Systems,AMT
+AMT205, Turbine Engines,AMT
+AMT207, Turbine Engine Maintenance,AMT
+AMT208, Cabin Atmosphere Systems,AMT
+ANT201, Cultural Anthropology (CT),ANT
+ANT322, Archaeology,ANT
+ANT325, World Prehistory,ANT
+ANT362," Health, Culture & Society",ANT
+ANT371, Linguistic Anthropology,ANT
+ANT480, SpTp: Forensic Anthropology,ANT
+ANT491, Anthropological Theory,ANT
+ANT493, Senior Seminar II,ANT
+ART112, Intro To Visual Art,ART
+ART202, History of Art II (CT),ART
+ART214, Foundations: Grid/Chroma,ART
+ART215, Foundations: Form/Space,ART
+ART217, Foundations: Record/Layer,ART
+ART218, Foundations: Site/Matrix,ART
+ART219, Foundations: Frame/Time,ART
+ART298, Foundations Review: BFA,ART
+ART299, Foundations Review: BA,ART
+ART301, Printmaking Processes,ART
+ART307, Sculpture,ART
+ART308, Weaving,ART
+ART314, Graphic Design I,ART
+ART320, Silk Screen Printmaking,ART
+ART325, Image Visualization: Digital,ART
+ART327, Filmmaking I,ART
+ART329, Cinematic NonFiction,ART
+ART335, Art Ed 2D3D,ART
+ART340, Art Education: Secondary,ART
+ART343, Intro to Potter's Wheel,ART
+ART350, Watercolor Painting,ART
+ART351, Advanced Watercolor,ART
+ART389, 20th Century Art,ART
+ART415, Northern Renaissance Art,ART
+ART419, Textile Construction,ART
+ART425, History of Photography,ART
+ART434, Video Art,ART
+ART440, Adv Graphic Design,ART
+ART443, Mm/Assemblage Sculpture,ART
+ART446, Intermed Potter's Wheel,ART
+ART448, Ceramic Mat & Processes,ART
+ART454, Motion Design II,ART
+ART481, SpTp: Contemporary Art History,ART
+ART482, SpTp: Art in America,ART
+ART485, Independent Study,ART
+ART486, Independent Study,ART
+ART489, Graphic Design Portfolio,ART
+ART490, Apprenticeship,ART
+ART491, Graphic Design Workshop,ART
+ART497, Capstone StudioBFA,ART
+ART497, Capstone StudioBA,ART
+ART498, Senior Capstone Exhibition BFA,ART
+AVSC102, Flight School Orientation,AVSC
+AVSC200, Private Pilot Ground School,AVSC
+AVSC205, Solo Flight Lab,AVSC
+AVSC210, Private Pilot Cert ASEL Lab,AVSC
+AVSC215, Instrument Ground School,AVSC
+AVSC220, Instrument Certification Lab,AVSC
+AVSC231, Aviation Law and Regulations,AVSC
+AVSC305, CFII Lab,AVSC
+AVSC310, Aerodynamics & Performance,AVSC
+AVSC311, Aircraft Systems,AVSC
+AVSC315, Airport Operations and Mgmt,AVSC
+AVSC329, Commercial Ground School,AVSC
+AVSC330, Commercial Phase I Lab,AVSC
+AVSC335, CFI Ground School,AVSC
+AVSC340, Commercial Phase II ASEL Lab,AVSC
+AVSC345, Initial CFI ASEL Lab,AVSC
+AVSC355, Aviation Weather,AVSC
+AVSC375, Commercial AMEL AddOn Lab,AVSC
+AVSC420, International Aviation,AVSC
+AVSC495, Internship in Aviation Ops,AVSC
+BME201, Biomedical Engineering Seminar,BME
+BME306, Tissue Engineering,BME
+BME310, Modeling & Simulation Bio Syst,BME
+BME460, Mechanics of Biofuilds,BME
+BME466, Biomedical Engr Capstone II,BME
+BME480, SpTp: Bioelectronics,BME
+BME481, SpTp: Nanomedicine,BME
+BME482, SpTp: Indiv Rsrch Practicum,BME
+BSC104, Introduction to Biology,BSC
+BSC104L, Introduction to Biology Lab,BSC
+BSC105, Human Biology,BSC
+BSC105L, Human Biology Lab,BSC
+BSC120, Principles of Biology I,BSC
+BSC120L, Principles of Biology I Lab,BSC
+BSC121, Principles of Biology II,BSC
+BSC121L, Prin of Biology II Lab,BSC
+BSC227, Human Anatomy,BSC
+BSC227L, Human Anatomy Lab,BSC
+BSC228, Human Physiology,BSC
+BSC228L, Human Physiology Lab,BSC
+BSC250, Microbiol & Human Disease,BSC
+BSC250L, Microbio and Human Disease Lab,BSC
+BSC302, Principles of Microbiology,BSC
+BSC304, Microbiology Lab,BSC
+BSC320, Principles of Ecology,BSC
+BSC322, Principles Cell Biology,BSC
+BSC324, Principles of Genetics,BSC
+BSC332, Principles of Human Anatomy,BSC
+BSC332L, Prin of Human Anatomy Lab,BSC
+BSC334, Principles of Human Physiology,BSC
+BSC334L, Prin of Human Physiology Lab,BSC
+BSC340, Principles of Evolution,BSC
+BSC417, Biostatistics,BSC
+BSC421, Phycology,BSC
+BSC422, Animal Physiology,BSC
+BSC428, Neuroscience,BSC
+BSC430, Plant Ecology,BSC
+BSC436, Vertebrate Embryology,BSC
+BSC443, Microbial Genetics,BSC
+BSC451, Molecular Medicine,BSC
+BSC480, SpTp: R Data Analysis,BSC
+BSC481, SpTp: Human Genetics,BSC
+BSC482," SpTp: Drugs, Brain & Behavior",BSC
+BSC485, Independent Study,BSC
+BSC491, Capstone Experience,BSC
+BSPS101, Intro to Careers in Pharm Sci,BSPS
+BUSN290, Internship,BUSN
+BUSN490, Internship,BUSN
+CD101, Intro Communic Disorders,CD
+CD228, Language and Speech Dev,CD
+CD229, Anatomy Speech Mechanism,CD
+CD239, Phonetics,CD
+CD241, Intro Communication Science,CD
+CD322, Dev Speech Disorders,CD
+CD328, Developmental Lang Dis,CD
+CD330, Acq Comm Swallowing Dis,CD
+CD401, Inquiry in CD,CD
+CD420, Voice and Fluency Disorders,CD
+CD427, Therapeutic Procedures II,CD
+CD460, Basic Audiology,CD
+CD461, Sign Language for SLP,CD
+CD470L, Therapeutic Procedures Lab,CD
+CD485, Independent Study,CD
+CE322, Geotechnical Engineering,CE
+CE331, Hydraulic Engineering,CE
+CE342, Transportation Engineering,CE
+CE351, Environmental Engineering,CE
+CE414, Structural Steel Design,CE
+CE438, Pavement Design and Management,CE
+CE452, Senior Seminar of Civil Engr,CE
+CE453, Capstone Senior Design,CE
+CFS200, Introduction to CFS,CFS
+CFS261, Introduction to Linux,CFS
+CFS305, Open Source Intelligence,CFS
+CFS400, Intro to Cyber Forensics,CFS
+CFS420, Incident Response,CFS
+CFS440, Digital Evidence,CFS
+CFS445, Mobile & Web Pen Testing,CFS
+CFS454, Network Defense,CFS
+CFS461, Cyber Warfare,CFS
+CFS462, Network Forensics,CFS
+CFS467, Mobile Device Forensics,CFS
+CFS485, Independent Study,CFS
+CFS490, Capstone,CFS
+CHM111, Foundations of Chemistry,CHM
+CHM205," General, Organic, and Biochem",CHM
+CHM211, Principles of Chemistry I,CHM
+CHM212, Principles Chemistry II,CHM
+CHM217, Principles of Chem Lab I,CHM
+CHM218, Principles of Chem Lab II,CHM
+CHM218H, Prin Chem Honor Lab II,CHM
+CHM305, Research Methods Chem,CHM
+CHM332, Chemistry Seminar,CHM
+CHM355, Organic Chemistry I,CHM
+CHM356, Organic Chemistry II,CHM
+CHM358, Physical Chemistry: Thermo.,CHM
+CHM361, Intro Organic Chm Lab,CHM
+CHM365, Introductory Biochemistry,CHM
+CHM366, Intro Biochemistry Lab,CHM
+CHM390H, Honors in Chemistry,CHM
+CHM401, Research for Undergrad,CHM
+CHM411, Modern Instrument Methods,CHM
+CHM432, Chemistry Seminar,CHM
+CHM467, Intermediate Biochemistry,CHM
+CHM478, Appl Microscopy in Research,CHM
+CHM485, Independent Study,CHM
+CHM491, Capstone Experience,CHM
+CI101, Math for Elem Teachers I,CI
+CI201, Math for Elem Teachers II,CI
+CI248, Intro to Science Elem Ed,CI
+CI301, Teach Elem/Middle Mathematics,CI
+CI321, ECE Curr and Methods,CI
+CI342, Lit & Lang Arts Methods,CI
+CI345, Crit Read Writ & Think,CI
+CI348, Phy Sci & Engr for Elem Ed,CI
+CI360, Social Studies Methods Elem,CI
+CI402, Teach Mid Child Learners,CI
+CI405, Student TeachingElem Ed,CI
+CI407, Residency II  Elementary,CI
+CI415, Int Meth & Mat: Sec Ed,CI
+CI442, Instr & Clrm Mgt in Elem Ed,CI
+CI446, The Process of Reading Part II,CI
+CI447, Inte Read/Lang Arts: Elem Edu,CI
+CI448, Science Methods: Elem Edu,CI
+CI449, Instr & Clarm Mgt Sec Ed,CI
+CI450, Stu Teach Secondary Ed,CI
+CI451, Residency II  Secondary,CI
+CI452, Mce: Supervised Stu Teach,CI
+CI459, Multicult Influence in Ed,CI
+CI470, Residency I Clinical,CI
+CI471, Residency I Clinical,CI
+CI472, Residency I Clinical,CI
+CISP320, Survey Exceptional Child,CISP
+CISP420, Survey Except Child II,CISP
+CISP421, Child with Exceptionalities,CISP
+CISP422, Differentiate Instruction,CISP
+CISP427, Introduction to Autism,CISP
+CISP428, Special Needs in Erly Child Ed,CISP
+CISP439, Assessment in Sp Ed,CISP
+CISP440, Stu Teach Multicategorical,CISP
+CISP442, Residency II  Multicategoric,CISP
+CISP445, Intervent Preschool Sp Ed,CISP
+CISP453, Curr Methods Mild to Moderate,CISP
+CISP454, Families of Except Students,CISP
+CISP455, Field Exp Preschool Sp Ed,CISP
+CIT150, Spreadsheet and Database Apps,CIT
+CIT260, Instrumentation,CIT
+CIT263, Web Programming I,CIT
+CIT313, Web Programming II,CIT
+CIT333, Software Engineering II,CIT
+CIT352, Network Protocols and Admin,CIT
+CIT365, Database Management,CIT
+CIT416, Advanced Web Programming,CIT
+CIT441, Game Development II:3D,CIT
+CIT443, Game Development III: AI,CIT
+CIT446, 3D Modeling and Animation,CIT
+CIT470, Internship in CIT,CIT
+CIT480, SpTp: Emerging Topics in CS,CIT
+CIT483, SpTp: Game Design for Impact,CIT
+CIT485, Independent Study,CIT
+CIT490, Capstone Project in CIT,CIT
+CJ200, Intro to Criminal Justice,CJ
+CJ211, Intro to Law Enforcement,CJ
+CJ221, Intro to Criminal Courts,CJ
+CJ231, Intro to Corrections,CJ
+CJ300, Admin of Criminal Justice,CJ
+CJ302, CJ Research Methods,CJ
+CJ314, Crime Scene & Investigations,CJ
+CJ322, Criminal Law,CJ
+CJ323, Criminal Procedure,CJ
+CJ325, Juvenile Justice,CJ
+CJ400, Applied Ethics in CJ,CJ
+CJ404, Theoretical Criminology,CJ
+CJ417, CJ Decision Making,CJ
+CJ418, Crime and Pop Culture,CJ
+CJ426, Civil Liability Issues CJ,CJ
+CJ440, CJ Response to Dom Violence,CJ
+CJ492, Senior Seminar,CJ
+CL232, Greek & Roman Drama (CT),CL
+CL319, Classical Mythology,CL
+CL435, Greek Civilization,CL
+CL477, RTTP: Greece and Rome,CL
+CL490," Sen Sem: GoddessesPR: ENG102 Minimum Grade D , or ENG302 Minimum Grade D , or ENG201H Minimum Grade D , or YGS162 Minimum Grade D , or IST201 Minimum Grade D , or CL231 Minimum Grade D , or CL232 Minimum Grade D , or CL233 Minimum Grade D , or CL319 Minimum Grade D , or PHL200 Minimum Grade D , or PHL201 Minimum Grade D , or PHL303 Minimum Grade D , or PHL321 Minimum Grade D , or PHL340 Minimum Grade D , or PHL353 Minimum Grade D , or RST205 Minimum Grade D , or RST206 Minimum Grade D , or RST300 Minimum Grade D , or RST304 Minimum Grade D , or RST320 Minimum Grade D , or RST325 Minimum Grade D , or ENG201 Minimum Grade D",CL
+CLS105, MedicalLab Terminology (CT),CLS
+CLS200, Clinical Biochemistry,CLS
+CLS210, Clinical Immunohematology,CLS
+CLS220, Clinical Microbiology,CLS
+CLS255, Clinical Lab Problems,CLS
+CLS285, Independent Study,CLS
+CLS310, Clin Immun & Mol Diag,CLS
+CLS464, Lab Instrumen Inform Sys,CLS
+CLS466, Diagnostic Physiology,CLS
+CLS468, Clinical Lab Research,CLS
+CLS472, Adv CLS Clinical Practicum I,CLS
+CLS473, Adv CLS Clinical Practicum II,CLS
+CLS485, Independent Study,CLS
+CMM103, Fund SpeechCommunication,CMM
+CMM104H, Honors in Speech Comm,CMM
+CMM207, Business Communication,CMM
+CMM213, Communication in Relationships,CMM
+CMM239, Communication and Film,CMM
+CMM271, Intercollegiate Debate,CMM
+CMM302, Professional Presentations,CMM
+CMM308, Persuasive Communication,CMM
+CMM315, Communication in Groups,CMM
+CMM316, Legal Communication,CMM
+CMM319, Leadership Dynamics,CMM
+CMM322, Intercultural Communication,CMM
+CMM371, Intercollegiate Debate,CMM
+CMM374, Health Communication,CMM
+CMM478, Communication Capstone,CMM
+CMM480, SpTp: Effective Workplace Comm,CMM
+CMM485, Independent Study,CMM
+CMM490, Internship,CMM
+CS105, Expl World with Computing (CT),CS
+CS110, Computer Science I,CS
+CS120, Computer Science II,CS
+CS210, Data Structures and Algorithms,CS
+CS215, Adv Data Struct and Algorithms,CS
+CS300, Programming Languages,CS
+CS310, Software Engineering II,CS
+CS402, Computer Architecture,CS
+CS410, Database Engineering,CS
+CS430, Cyber Security,CS
+CS435, Cyber Risk,CS
+CS475, Internship,CS
+CS480, SpTp: Emerging Topics in CS,CS
+CS481, SpTp: Deep Learning In Med Img,CS
+CS482, SpTp: Zero Trust Architecture,CS
+CS483, SpTp: Game Design for Impact,CS
+CS490, Senior Project,CS
+CYBR330, Cyber Security,CYBR
+CYBR435, Cyber Risk,CYBR
+CYBR475, Internship,CYBR
+CYBR490, Senior Project,CYBR
+DAN101, Introduction to Dance,DAN
+DAN270, Practicum,DAN
+DAN280, SpTp: Spongebob the Musical,DAN
+DAN320, Modern Dance Technique,DAN
+DH201, Intro to Digital Humanities,DH
+DTS202, Introductory Foods,DTS
+DTS210, Nutrition,DTS
+DTS302, FS Safety & Sys Mgt II,DTS
+DTS310, Life Span Nutrition,DTS
+DTS403, Advanced Nutrition,DTS
+DTS410, Cross Cultural Foods,DTS
+DTS470, Medical Nutrition Therapy II,DTS
+DTS480, SpTp: Knowledge/Skills for RDN,DTS
+ECE102, Early Childhood Programs (CT),ECE
+ECE204, Parenting,ECE
+ECE215, Family Relationships,ECE
+ECE303, Child Development,ECE
+ECE420, Infant/Toddler Environs & Rela,ECE
+ECE430, Preschool Curr and Methods,ECE
+ECE431, Guid Young Child Pract,ECE
+ECE435, Admin Early Child Program,ECE
+ECE472, Early Childhood Capstone,ECE
+ECN200, Survey of Economics,ECN
+ECN250, Principles Microeconomics,ECN
+ECN253, Principles Macroeconomics,ECN
+ECN301, Quantitative Methods ECN/FIN,ECN
+ECN310, Money and Banking,ECN
+ECN326, Int Macroeconomic Analys,ECN
+ECN408, Comparative Econ Systems,ECN
+ECN420, International Trade,ECN
+ECN456, Labor Economics,ECN
+ECN466, Economics Workshop,ECN
+ECN485, Independent Study,ECN
+ECN490, Internship,ECN
+EDF200, PreResidency Clinical,EDF
+EDF201, Ed Psych Developing Learner,EDF
+EDF435, Classroom Assessment,EDF
+EDF475, Schools in a Diverse Society,EDF
+EE202, Circuits II,EE
+EE204, Intro to Digital Systems,EE
+EE211, Intro to Computer Engineering,EE
+EE330, Random Signals and Systems,EE
+EE360, Control Systems,EE
+EE370, Electric Machinery,EE
+EE375, Communcation Systems I,EE
+EE380, Microprocessor Design,EE
+EE420, Capstone Design,EE
+EE481, SpTp: Arc Flash Analysis,EE
+ENG101, Beginning Composition,ENG
+ENG101P, Beginning Composition Plus,ENG
+ENG200, Texting the World (CT),ENG
+ENG200H, Texting the World (CT),ENG
+ENG201, Advanced Composition,ENG
+ENG203, Appalachian Literature,ENG
+ENG204, Writing for the Workplace,ENG
+ENG205, Popular Literature (CT),ENG
+ENG209, Literature of Fantasy,ENG
+ENG211, Science Fiction,ENG
+ENG214, Intro to Comics,ENG
+ENG215, Good Novels,ENG
+ENG221, Postcolonial Literature,ENG
+ENG231, Good Stories,ENG
+ENG232, Good Films,ENG
+ENG235, Crime and Sensation Literature,ENG
+ENG240, African American Literatures,ENG
+ENG241, Multicultural Literatures,ENG
+ENG242, Women Writers,ENG
+ENG263, Intro Digital Literary Studies,ENG
+ENG314, Intro to Professional Writing,ENG
+ENG344, Introduction to Film Studies,ENG
+ENG350, Intro to Textual Analysis,ENG
+ENG354, Scientific & Tech Writing,ENG
+ENG355, Intro to Critical Theory,ENG
+ENG360, Intro Creative Writing,ENG
+ENG377, Creative Writing Poetry,ENG
+ENG378, Creative Writing Fiction,ENG
+ENG379, Creative Writing: Nonfiction,ENG
+ENG407," Writing, Editing & Doc Design",ENG
+ENG410, Shaks Comedy Tragedy & Rom,ENG
+ENG414, 19th C British Novel,ENG
+ENG418, Addiction Literature,ENG
+ENG419, Approaches Teach Lit,ENG
+ENG424, American Literature after 1914,ENG
+ENG427, Studies in Authors or Genre,ENG
+ENG430, Young Adult Literature,ENG
+ENG432, Contemporary Literature,ENG
+ENG439, Professional Writing Theory,ENG
+ENG440, Selected Topics in Film,ENG
+ENG445, Screenwriting,ENG
+ENG467, Visual Rhetoric,ENG
+ENG470, Form/Theory: Creative Writing,ENG
+ENG476, Structures of English Language,ENG
+ENG478, Intro to Sociolinguistics,ENG
+ENG479, MultiGenre Creat Writ Wkshp,ENG
+ENG480, SpTp: Multigenre CW WorkshopPR: ENG350,ENG
+ENG480, SpTp: Short Story,ENG
+ENG481, SpTp: Bible as Literature,ENG
+ENG482, SpTp: Lit of Health & Healing,ENG
+ENG485, Independent Study,ENG
+ENG490, Internship,ENG
+ENG499, Senior Capstone,ENG
+ENGR102, Introduction to CAD,ENGR
+ENGR111, Engineering Computations,ENGR
+ENGR214, Dynamics,ENGR
+ENGR216, Mech of Deformable Bodies,ENGR
+ENGR217, Engineering Career Preparation,ENGR
+ENGR219, Engineering Thermodynamics,ENGR
+ENGR222, Engr Cost Analysis & Economy,ENGR
+ENGR330, Engineering Research,ENGR
+ENGR473, Capstone Senior Design,ENGR
+ENT200H, Smith StartUp Incubator Honors,ENT
+ENT220, Creativity & Innovation,ENT
+ENT250, Intro to Entrepreneurship,ENT
+ENT320, Marketing for Entrepreneurs,ENT
+ENT380, Social Entrepreneurship,ENT
+ENT467, Strategic Entrepreneurship,ENT
+ESS220, Fitness and Wellness,ESS
+ESS345, Exercise Physiology,ESS
+ESS375, Fitness Assess & Exerc Prescr,ESS
+ESS386, Adult Fitness,ESS
+ESS442, Princ of Strength & Cond,ESS
+ESS443, Prin of Strength Cond Lab,ESS
+ESS478, Exercise Metabolism,ESS
+ESS480, SpTp: Drug & Sport,ESS
+ESS491, Internship Exercise Science,ESS
+FIN321, Risk Insurance Principles,FIN
+FIN323, Principles of Finance,FIN
+FIN343, Intermediate Financial Manage,FIN
+FIN370, Principles of Investment,FIN
+FIN425, Portfolio Analysis and Manage,FIN
+FIN431, Futures and Options,FIN
+FIN440, International Fin Management,FIN
+FIN470, Financial Policies/Strategies,FIN
+FIN475, Intl Business Strategies,FIN
+FIN485, Independent Study,FIN
+FIN490, Internship,FIN
+FRN101, Elementary French I,FRN
+FRN102, Elementary French II,FRN
+FRN203, Intermediate French III,FRN
+FRN204, Intermediate French IV,FRN
+FRN240, French Society & Life,FRN
+FRN403, 19th Century French Novel,FRN
+FRN417, Contemporary Frn Film,FRN
+FRN486, Independent Study,FRN
+FSC224, Intro to Forensic Science,FSC
+FYS100, First Yr Sem Critical Thinking,FYS
+FYS100H, First Year SeminarHonors,FYS
+GEO100, Intro to Human Geography (CT),GEO
+GEO101, Physical Geography (CT),GEO
+GEO113, Web GIS,GEO
+GEO222, Global Environment Issues (CT),GEO
+GEO230, Intro to Meteorology (CT),GEO
+GEO300, Methods in Geography,GEO
+GEO317, World Regional Geography,GEO
+GEO355, Aviation Weather,GEO
+GEO405, Political Geography,GEO
+GEO406, Population Geography,GEO
+GEO410, Urban Geography,GEO
+GEO427, Programming GIS,GEO
+GEO431, Remote Sensing & Photogram,GEO
+GEO450, Extreme Weather,GEO
+GEO485, Independent Study,GEO
+GEO490, Internship,GEO
+GEO499, Senior Capstone II,GEO
+GER102, Elementary German II,GER
+GER204, Intermediate German II,GER
+GER240, German Society & Life,GER
+GER425, Grimm's Fairy Tales,GER
+GLY100, Earth's Fury and Fortune,GLY
+GLY150, Intro Oceanography,GLY
+GLY150L, Intro Oceanography Lab,GLY
+GLY200, The Dynamic Earth,GLY
+GLY201, The Earth Through Time,GLY
+GLY210L, Earth Materials Lab,GLY
+GLY211L, Earth Through Time Lab,GLY
+GLY420, Principles of Geochemistry,GLY
+GLY427, Fossil Fuels,GLY
+GLY455, Hydrogeology,GLY
+GLY455L, Hydrogeology Laboratory,GLY
+GLY485, Independent Study,GLY
+GLY491, Capstone Experience,GLY
+GRK302, Anc Intermed Greek,GRK
+HON200, Second Year Seminar,HON
+HON291, Yeager Seminar II,HON
+HON293, Yeager Seminar IV,HON
+HON300, Honors Peer Mentors & Leaders,HON
+HON480, SpTp: Visual LiteracyPR: Admitted Honors College 1,HON
+HON480, SpTp: Mything PersonsPR: Admitted Honors College 1,HON
+HON480, SpTp: The Scientific AttitudePR: Admitted Honors College 1,HON
+HON480, SpTp: Reading Joan DidionPR: Admitted Honors College 1,HON
+HON480, SpTp: Law in Pop CulturePR: Admitted Honors College 1,HON
+HON484, Honors College Newsletter,HON
+HON485, Independent Study,HON
+HON488, Student Assoc Steering Comm,HON
+HON489, Honors Internship,HON
+HON490, TedxMarshallU Honors Interns,HON
+HP110, Intro to the Health Profession,HP
+HP210, Health Sciences Seminar,HP
+HP240, Intro to Human Diseases in HS,HP
+HP320, Intro to Res in Health Prof,HP
+HP420, Allied Health Sciences Admin,HP
+HP480, SpTp: Health Disparities,HP
+HP480, SpTp: Women's Health,HP
+HP490, Capstone,HP
+HS200, Comp Medical Terminology (CT),HS
+HS201, Intro Appl Anat & Physiol,HS
+HS212, Practical & Emerging Tech AT,HS
+HS215, Intro to Athletic Training,HS
+HS220, Personal Health,HS
+HS221, Personal Health II,HS
+HS222, Hlth Prov First Aid/CPR/AED,HS
+HS230, Orthopedic Skills,HS
+HS265, Fund Video Analysis Mvmt (CT),HS
+HS365, Functional Kinesiology,HS
+HS369, Motor Learning,HS
+HS405, Sport Psychology,HS
+HS410, Organ Admin in Kines,HS
+HS464, Pathomechanics,HS
+HS476, Seminar in Sports Science,HS
+HS478, Research Practicum Biomechanic,HS
+HS481, SpTp:Undstding Health Literacy,HS
+HS482, SpTp:Stress Mgmt & Self Aware,HS
+HS495, Trends in Biomechanics II,HS
+HST100, History Methods Lab,HST
+HST101, Great Civs to 1300 (CT),HST
+HST102, World & West 13001850 (CT),HST
+HST103, The World Since 1850 (CT),HST
+HST223, Rise & Fall Nazi Germany,HST
+HST230, American History to 1877 (CT),HST
+HST231, American Hist From 1877 (CT),HST
+HST300, History Research Option,HST
+HST303, American Military History,HST
+HST305, Drug Wars,HST
+HST306, The Holocaust,HST
+HST314, LGBTQ+ History of the US,HST
+HST366, Conspiracies in US History,HST
+HST392, Food and the City Since 1800,HST
+HST400, Senior Seminar,HST
+HST414, Am Civil War & Reconstruc,HST
+HST428, Intel & Cult Hist Mod Eur,HST
+HST430, Soviet Russia and Beyond,HST
+HST440, West Virginia History,HST
+HST462, The Viking World,HST
+HST480, SpTp: Victorian Britain,HST
+HST485, Independent Study,HST
+IE404, Quality Control,IE
+ITL280, SpTp:Intro to Digital Literacy,ITL
+ITL350, Adv Digital Literacy Skills,ITL
+ITL365, Instructional Technology Apps,ITL
+ITL400, Intro to New Literacies,ITL
+ITL406, Digital Citizenship,ITL
+ITL480, SpTp:Intro Portfolio Developmt,ITL
+ITL481, SpTp: Information Security,ITL
+ITL483, SpTp:Ethics & Info Digital Age,ITL
+JMC100, Fund Jrn Writing & Edit,JMC
+JMC101, Media Literacy,JMC
+JMC102, Media Toolbox,JMC
+JMC231, Intro to Audio Production,JMC
+JMC241, Media Design,JMC
+JMC260, Digital Imaging for JMC,JMC
+JMC265, Introduction to Podcasting,JMC
+JMC273, Practice in Radio,JMC
+JMC300, Reporting and News Writing,JMC
+JMC301, Beat Reporting,JMC
+JMC330, ADPR Principles and Ethics,JMC
+JMC332, Intro to Video Production,JMC
+JMC340, Basic Broadcast News,JMC
+JMC345, Mass Comm Law and Ethics,JMC
+JMC361, Digital Presence,JMC
+JMC373, Practice in Radio or TV,JMC
+JMC380, ADPR and Continuity Writing,JMC
+JMC383, Content Creation,JMC
+JMC414, Reporting Public Affairs,JMC
+JMC438, Public Relations Case Studies,JMC
+JMC439, ADPR Campaign Management,JMC
+JMC451, Television Reporting,JMC
+JMC452, Advanced TV Reporting,JMC
+JMC455, Race Gender & Mass Media,JMC
+JMC465, Multimedia Reporting,JMC
+JMC475, Documentary Journalism,JMC
+JMC481, SpTp: Experimenting w/ AI JRN,JMC
+JMC481, SpTp: eSports Broadcasting,JMC
+JMC481, SpTp: Collective 37,JMC
+JMC486, Independent Study,JMC
+JMC490, Jrn & Mass Comm Internship I,JMC
+JMC491, Jrn & Mass Comm Intern II,JMC
+JPN102, Elementary Japanese II,JPN
+JPN204, Intermediate Japanese IV,JPN
+JPN240, Japanese Culture (CT),JPN
+JPN315, Advanced Japanese II,JPN
+JPN325, Business Japanese,JPN
+JPN402, Readings in Adv Japanese II,JPN
+JPN490, Japanese Capstone,JPN
+LAT101, First Year Latin,LAT
+LAT102, First Year Latin,LAT
+LAT204, Intermediate Latin,LAT
+LAT411, Latin Prose Comp: Survey,LAT
+LAT485, Independent Study,LAT
+LAT499, Classical Language Capstone,LAT
+LE207, Legal Environ of Business,LE
+LE351, Legal Aspts Hlth Care Org,LE
+LE366, Entrep Law & Ethics,LE
+ME111, Mech Engineering Computations,ME
+ME240, Manufacturing Processes,ME
+ME325, Mechanical Engineering LabI,ME
+ME350, Heat Transfer,ME
+ME410, Kinematics & Design of Machine,ME
+ME420, Control Systems,ME
+ME425, Mechanical Engineering LabII,ME
+ME440, Design & Analysis Energy Sys,ME
+ME452, Capstone Design I,ME
+ME453, Capstone Design II,ME
+ME455, Metallurgy,ME
+ME473, Computational Fluid Dynamics,ME
+MGT218, Business Quantitative Methods,MGT
+MGT318, Management Analytics,MGT
+MGT320, Principles of Management,MGT
+MGT325, Project Management,MGT
+MGT348, Aviation Management Safety,MGT
+MGT354, Health Care Delivery Systems,MGT
+MGT355, Health Care Prods & Services,MGT
+MGT370, Energy Management Principles,MGT
+MGT419, Business & Society,MGT
+MGT420, Operations Management,MGT
+MGT422, Organizational Behavior,MGT
+MGT424, Human Resource Management,MGT
+MGT428, Negotiations,MGT
+MGT430, Diversity Issues in Business,MGT
+MGT445, International Management,MGT
+MGT446, Green Management,MGT
+MGT458, Energy Management Strategy,MGT
+MGT459, Aviation Management Capstone,MGT
+MGT460, Strategic Management,MGT
+MGT461, New Venture Dynamics,MGT
+MGT480, SpTp: HR in Pop Culture,MGT
+MGT485, Independent Study,MGT
+MGT490, Internship,MGT
+MI207, Imaging Procedures II,MI
+MI208, Pharmacology for Imaging Sci,MI
+MI209, Intro to Imaging Equip,MI
+MI210, Clinical Practice II,MI
+MI212, Seminar Imaging Sciences II,MI
+MI304, Radiographic Pathology,MI
+MI308, Rad Image Analysis,MI
+MI309, Image Acquisition II,MI
+MI310, Clinical Practice V,MI
+MI311, Seminar Imaging Sciences III,MI
+MI315, Small Parts Sonography,MI
+MI316, Abdominal Sonography II,MI
+MI317, Ultrasound Physics II,MI
+MI319, Clinical Prac II Sonograpy,MI
+MI322, Radiation Safety,MI
+MI405, CT Procedures,MI
+MI407, Cardiovascular Anatomy,MI
+MI410, Research Medical Imaging,MI
+MI411, Transcultural Healthcare,MI
+MI416, Obstetrical Sonography I,MI
+MI421, Gynecological Sonography II,MI
+MI422, Clinical Pract IV Sonography,MI
+MI424, Vascular Sonography II,MI
+MI425, Echocardiography II,MI
+MI426, Advanced Clinical Practice II,MI
+MI430, Mammography II,MI
+MI432, Advanced MRI Theory,MI
+MI435, Seminar ARRT Exam Review II,MI
+MI436, Sonography Registry Review II,MI
+MIS200, Bus Computer Applications,MIS
+MIS290, Prin Management Info Systems,MIS
+MIS310, Bus Sys Analysis & Design,MIS
+MIS333, Bus Telecomm Sys,MIS
+MIS420, Info Security Management,MIS
+MIS475, Strat Management Info Systems,MIS
+MIS480, SpTp: Research in Bus Tech,MIS
+MIS485, Independent Study,MIS
+MIS490, Internship,MIS
+MKT231, Principles of Selling,MKT
+MKT340, MKT Concepts and Applications,MKT
+MKT341, Integrated MKT Communications,MKT
+MKT344, Retail Management,MKT
+MKT350, Supply Chain Logistics,MKT
+MKT371, International Marketing,MKT
+MKT375, Business to Business Marketing,MKT
+MKT400, Social Media Marketing,MKT
+MKT435, Internet Marketing,MKT
+MKT437, Consumer Behavior,MKT
+MKT442, Market Research,MKT
+MKT445, Services Marketing,MKT
+MKT465, Strategic Marketing,MKT
+MKT480, SpTp: Bus Comm in Age of AI,MKT
+MKT485, Independent Study,MKT
+MKT490, Internship,MKT
+MS102, Basic Leadership,MS
+MS102L, Mil Sci Basic Lead Lab I,MS
+MS202, Leadership and Teamwork,MS
+MS202L, Mil Sci Basic Lead Lab II,MS
+MS221, Army Phys Readiness Prog,MS
+MS281, SpTp:Adv Platoon Tactical PlanPR: MS301,MS
+MS284, Military History,MS
+MS302, Leadership and Ethics,MS
+MS302L, Adv Course Lead Lab III,MS
+MS402, Officership,MS
+MS402L, Adv Course Lead Lab IV,MS
+MTH102, Prep for College Math B,MTH
+MTH121, Concepts and Applications (CT),MTH
+MTH121B, Cncpts & AppsExpanded (CT),MTH
+MTH122, Plane Trigonometry,MTH
+MTH127, College AlgebraExpanded,MTH
+MTH130, College Algebra,MTH
+MTH132, Precalculus with Sci Applica,MTH
+MTH140, Applied Calculus,MTH
+MTH160, Applied Math Reasoning (CT),MTH
+MTH220, Discrete Structures,MTH
+MTH229, Calculus/Analytic Geom I (CT),MTH
+MTH230, Calculus/Analytic Geom II,MTH
+MTH231, Calculus/Analytic Geom III,MTH
+MTH300, Intro to Higher Math,MTH
+MTH311, Math for Secondary Educators 2,MTH
+MTH329, Elementary Linear Algebra,MTH
+MTH331, Linear Algebra,MTH
+MTH335, Ordinary Diff Equations,MTH
+MTH416, Advanced Differential Equation,MTH
+MTH428, Advanced Calculus II,MTH
+MTH430, Topology I,MTH
+MTH440, Graph Th and Combinatorics,MTH
+MTH452, Modern Algebra II,MTH
+MTH480, SpTp: Practical Mathematics,MTH
+MTH485, Independent Study,MTH
+MTH490, Internship in Mathematics,MTH
+MTH491, Senior Seminar,MTH
+MUS100, Applied Music Laboratory,MUS
+MUS101, Basic Musicianship,MUS
+MUS109, Mus Theatre Musicianship Lab,MUS
+MUS110, The Professional Musician,MUS
+MUS112, Elementary Music Theory II,MUS
+MUS114, Elem Aural Skills II,MUS
+MUS142, Music in Society,MUS
+MUS142H, Music in Society Honors,MUS
+MUS179A, Class Piano,MUS
+MUS179B, Class Piano,MUS
+MUS179D, Class Piano,MUS
+MUS180, Applied Composition,MUS
+MUS181, Saxophone,MUS
+MUS182, Flute,MUS
+MUS183, Oboe,MUS
+MUS184, Clarinet,MUS
+MUS185, Bassoon,MUS
+MUS186, French Horn,MUS
+MUS187, Trumpet,MUS
+MUS188, Trombone,MUS
+MUS189, Euphonium,MUS
+MUS190, Tuba,MUS
+MUS191, Violin,MUS
+MUS192, Viola,MUS
+MUS193, Cello,MUS
+MUS194, String Bass,MUS
+MUS195, Piano,MUS
+MUS196, Voice,MUS
+MUS197, Organ,MUS
+MUS198, Percussion,MUS
+MUS199, Guitar,MUS
+MUS210, Intro to Electronic Music (CT),MUS
+MUS212, Advanced Music Theory II,MUS
+MUS214, Adv Aural Skills II,MUS
+MUS217, Jazz Theory,MUS
+MUS218, Intro to Music Technology,MUS
+MUS219, Digital Recording Techniques,MUS
+MUS227, History of Popular Music,MUS
+MUS232, Jazz Improvisation II,MUS
+MUS250, History of Jazz,MUS
+MUS263, Brass Techniques,MUS
+MUS264, Percussion Techniques,MUS
+MUS290, Music History to 1750,MUS
+MUS310, Perf Arts Entrepreneurship,MUS
+MUS312, Vocal Techniques,MUS
+MUS320, Instrumental Arranging,MUS
+MUS332, Jazz Improvisation IV,MUS
+MUS339, Mat & Meth Instru Mus 512,MUS
+MUS340, Mat & Meth Chor Grn Mus 512,MUS
+MUS342, Mus in Elementary Classroom,MUS
+MUS361, Music History Since 1900,MUS
+MUS371, African Drum & Dance Ens,MUS
+MUS376, Recital,MUS
+MUS380, Applied Composition,MUS
+MUS381, Saxophone,MUS
+MUS382, Flute,MUS
+MUS383, Oboe,MUS
+MUS384, Clarinet,MUS
+MUS385, Bassoon,MUS
+MUS386, French Horn,MUS
+MUS387, Trumpet,MUS
+MUS388, Trombone,MUS
+MUS389, Euphonium,MUS
+MUS390, Tuba,MUS
+MUS391, Violin,MUS
+MUS392, Viola,MUS
+MUS393, Cello,MUS
+MUS394, String Bass,MUS
+MUS395, Piano,MUS
+MUS396, Voice,MUS
+MUS397, Organ,MUS
+MUS398, Percussion,MUS
+MUS399, Guitar,MUS
+MUS403, Choral Union,MUS
+MUS404, University Chorus,MUS
+MUS405, A Cappella Ensemble,MUS
+MUS406, Opera Workshop,MUS
+MUS407, Chamber Choir,MUS
+MUS408, Orchestra,MUS
+MUS415, Advanced Conducting,MUS
+MUS427, Music Business II,MUS
+MUS429, Vocal Pedagogy,MUS
+MUS437, Brass Band of the TriState,MUS
+MUS445, Piano Ensemble,MUS
+MUS452, Cello Ensemble,MUS
+MUS453, Guitar Ensemble,MUS
+MUS455, String Ensemble,MUS
+MUS456, Woodwind Ensemble,MUS
+MUS457, Percussion Ensemble,MUS
+MUS458, Brass Ensemble,MUS
+MUS459, Jazz Ensemble,MUS
+MUS460, Jazz Improv Ensemble,MUS
+MUS465, Symphonic Band,MUS
+MUS467, Wind Symphony,MUS
+MUS468, Sixth Man Band,MUS
+MUS476, Senior Recital,MUS
+MUS486, Independent Study,MUS
+MUS488, Independent Study,MUS
+MUS497, Capstone Project in Music,MUS
+NRE111, Living Systems,NRE
+NRE111L, Living Systems Lab,NRE
+NRE212, Energy,NRE
+NRE220, Human Dimensions Nat Res (CT),NRE
+NRE320, Nature Enviro Problems,NRE
+NRE321, Resol Environ Problems,NRE
+NRE322, Assess I: Terrestrial Systems,NRE
+NRE400, Soil Fertility/Plant Nutrition,NRE
+NRE423, GIS and Data Systems,NRE
+NRE470, ES Internship,NRE
+NRE480, SpTp: Adv Aquatic Inverts,NRE
+NRE481, SpTp: Hospitality and Tourism,NRE
+NRE482, SpTp:Mgmt of Serv Organization,NRE
+NRE483, SpTp: Resort Management,NRE
+NRE485, Independent Study,NRE
+NRE490, ES/NRRM Capstone Prep,NRE
+NRE491, ES Senior Capstone,NRE
+NRRM200, Analytical Methods: Statistics,NRRM
+NRRM301, Intro to Outdoor Recreation,NRRM
+NRRM380, Rec Resource Oper and Admin,NRRM
+NRRM411, Rec Resource Planning & Design,NRRM
+NUR120, Introduction to Nursing,NUR
+NUR220, Health Alterations I,NUR
+NUR222, Found of Prof Nursing II,NUR
+NUR225, Psychiatric Nursing,NUR
+NUR230, Health Alterations II,NUR
+NUR235, MaternalChild Nursing,NUR
+NUR241, Health Alterations III,NUR
+NUR300, Transition to Nursing Practice,NUR
+NUR305, Concepts in Prof Nursing,NUR
+NUR314, Fundamentals of Nursing Care,NUR
+NUR318, Family and Chronic Illness,NUR
+NUR319, Phys Assess Across Lifespan,NUR
+NUR321, Care of Childbearing Families,NUR
+NUR322, Psych / Mental Health Nursing,NUR
+NUR328, Adult Nursing II,NUR
+NUR333, Health Physical Assessment,NUR
+NUR350, Pharmacology for Nurses,NUR
+NUR400, Transcultural Nursing,NUR
+NUR408, Pediatric Nursing,NUR
+NUR410, Community Nursing for RN,NUR
+NUR416, Intro Research EBP,NUR
+NUR418, Contemporary Nursing,NUR
+NUR421, Community / Public Health Nurs,NUR
+NUR422, Nursing Capstone Practicum,NUR
+NUR425, NCLEX Success,NUR
+NUR427, Prof Engagement Nursing,NUR
+NUR485, Independent Study,NUR
+PEL113, Basketball,PEL
+PEL120, Self Defense,PEL
+PEL132, Beginning Volleyball,PEL
+PEL140, Beginning Tennis,PEL
+PEL142, Beginning Badminton,PEL
+PEL147, Beginning Soccer,PEL
+PEL170, Beginning Racquetball,PEL
+PEL173, Rock Climbing,PEL
+PEL175, Core Conditioning,PEL
+PEL180, Yoga,PEL
+PEL252, Touch Football,PEL
+PEL280, SpTp: Disc Golf,PEL
+PEL281, SpTp: Stretch & Strength,PEL
+PEL282, SpTp: Pickleball,PEL
+PEL283, SpTp: Strength Training,PEL
+PEL290, Intermediate Yoga,PEL
+PEL405, Lifeguarding,PEL
+PH101, Intro to Public Health,PH
+PH105, Intro to Epidemiology,PH
+PH220, Social & Behavioral Health,PH
+PH260, Community Health & Devpt,PH
+PH475, Comm/Non Comm Disease,PH
+PHL200, Intro Phil Ancient Period (CT),PHL
+PHL201, Intro Phil Modern Period (CT),PHL
+PHL202, Ethics of Health Care (CT),PHL
+PHL203, Philosophy & Human Exist (CT),PHL
+PHL280, SpTp: AI and Ethics,PHL
+PHL321, Current Phil Trends,PHL
+PHL330, Philosophy of Sex,PHL
+PHL460, Phil of Politics & Power,PHL
+PHL488, Independent Study,PHL
+PHY101, Conceptual Physics,PHY
+PHY101L, Conceptual Physics Lab,PHY
+PHY201, College Physics I,PHY
+PHY202, General Physics I Laboratory,PHY
+PHY203, College Physics II,PHY
+PHY204, General Physics 2 Laboratory,PHY
+PHY211, University Physics I,PHY
+PHY213, University Physics II,PHY
+PHY263, Enhancement for Physics II,PHY
+PHY304, Optics,PHY
+PHY320, Intro Modern Physics,PHY
+PHY405, Optics Lab,PHY
+PHY421, Modern Physics Lab,PHY
+PHY486, Independent Study,PHY
+PHY492, Capstone,PHY
+PS101, Introductory Astronomy (CT),PS
+PS486, Independent Study,PS
+PSC104, American Government (CT),PSC
+PSC201," Politics, Media, and Culture",PSC
+PSC202, State and Local Government,PSC
+PSC207, Comparative Politics (CT),PSC
+PSC302, Models of Public Policy,PSC
+PSC312, Research in Political Science,PSC
+PSC410, Russian Politics,PSC
+PSC427, Shapers and Definers,PSC
+PSC431, Global Terrorism,PSC
+PSC440, Power in American Society,PSC
+PSC442, Politics of Poverty,PSC
+PSC450, Administrative Law,PSC
+PSC453, Public Finance Management,PSC
+PSC461, American Cities,PSC
+PSC481," SpTp:Undrstnd Civil Lib, Right",PSC
+PSC483, SpTp: State Practicum,PSC
+PSC489, Seminar in Public Service,PSC
+PSC490, Public Service Internship,PSC
+PSY100, Psychology as a Major,PSY
+PSY201, Introductory Psychology (CT),PSY
+PSY223, Elem Behavioral Stat,PSY
+PSY250, Psychology of Pop Culture,PSY
+PSY300, Paranormal Phenomena,PSY
+PSY302, Social Psychology,PSY
+PSY311, Child Development,PSY
+PSY312, Adult Development,PSY
+PSY323, Experimental Psychology,PSY
+PSY324, Sensation & Perception,PSY
+PSY330, Human Sexual Behavior,PSY
+PSY360, Personality,PSY
+PSY405, Sport Psychology,PSY
+PSY406, Psychometrics,PSY
+PSY408, Abnormal Psychology,PSY
+PSY416, Psychology of Learning,PSY
+PSY420, Intro to IO Psychology,PSY
+PSY425, Psychology of Cinema Symbolism,PSY
+PSY430, Psychology of Women and Gender,PSY
+PSY440, Physiological Psychology,PSY
+PSY456, Research in Psychology,PSY
+PSY457, Research in Psychology,PSY
+PSY460, History & Systems,PSY
+PSY480, SpTp:Self Lead & Persnl Grwth,PSY
+PSY481, SpTp: Interpersonal Dynamics,PSY
+PSY482, SpTp:Psychology of Mindfulness,PSY
+PSY483," SpTp: Psychology, Social Media",PSY
+PSY485, Independent Study,PSY
+PSY487, Independent Study,PSY
+PSY490, Intro to Teaching in Psych,PSY
+PSY499," Cap: Community PsychologyPR: PSY223 Minimum Grade D , and PSY323 Minimum Grade D",PSY
+PSY499," Cap: Evolutionary PsychologyPR: PSY223 Minimum Grade D , and PSY323 Minimum Grade D",PSY
+PSY499," Cap: Clinical PracticumPR: PSY223 Minimum Grade D , and PSY323 Minimum Grade D",PSY
+RSP201, Pulmonary Pathophys,RSP
+RSP203, Respiratory Internship I,RSP
+RSP206, Neonatal/Pediatric Care,RSP
+RSP210, Respiratory Internship III,RSP
+RSP212, Acute/Chronic Pulmonary Mgt,RSP
+RSP303, Clinical Respiratory Education,RSP
+RSP304, Adv Neonatal & Pediatrics,RSP
+RSP307, Adv Tech Adult Critical Care,RSP
+RSP308, Resp Mgt & Quality Improvement,RSP
+RSP314, Adv Mechanical Ventilation,RSP
+RSP401, Intro to Sleep Disorders,RSP
+RSP402, Respiratory MGT,RSP
+RSP403, Respiratory Care Research,RSP
+RSP404, Adv Respiratory Care Practicum,RSP
+RSP407, Clinical Decision Making,RSP
+RSP420, Capstone in Respiratory Care,RSP
+RSP485, Independent Study,RSP
+RSP486, Independent Study,RSP
+RSP487, Independent Study,RSP
+RSP488, Independent Study,RSP
+RST205, Religious Trads of West,RST
+RST206, Religious Traditions Asia,RST
+RST225, Lit of New Testament,RST
+RST300, The Nature of Religion,RST
+RST304, The Teachings of Jesus,RST
+RST311, Jewish Holocaust,RST
+RST351, Classics of Rel Lit,RST
+RST360, Hindu Mysticism,RST
+RST361, Buddhism,RST
+RST480, SpTp: Islam,RST
+RST485, Independent Study,RST
+RST490," Sen Sem: GoddessesPR: ENG102 , or ENG302 , or ENG201H , or YGS162 , or IST201 , or CL231 , or CL232 , or CL233 , or CL319 , or PHL200 , or PHL201 , or PHL303 , or PHL321 , or PHL340 , or PHL353 , or RST205 , or RST206 , or RST300 , or RST304 , or RST320 , or RST325",RST
+SCLA101, Transformative Texts CMM (CT),SCLA
+SCLA102, Transformative Texts ENG,SCLA
+SFT235, Intro to Occup Safety (CT),SFT
+SFT372, Safety & Industrial Tech,SFT
+SFT373, Prin Ergonomics & Hum Factors,SFT
+SFT373L, Prin of Ergonomics Lab,SFT
+SFT465, Incident Investigation and PSM,SFT
+SFT482, SpTp: Intro to Prof Safety,SFT
+SFT483, SpTp: Safety Leadership,SFT
+SFT490, Safety Internship,SFT
+SFT498, Envir Safety & Health Legis,SFT
+SFT499, Dev & Mgt of Occup Safety Prog,SFT
+SOC200, Understanding Society (CT),SOC
+SOC280, SpTp: Success Strategies,SOC
+SOC345, Social Statistics,SOC
+SOC362," Health, Culture and Society",SOC
+SOC470, Field Experience,SOC
+SOC480, SpTp: Food & Climate Nexus,SOC
+SOC481, SpTp: Consumerism in Society,SOC
+SOC482, SpTp:Mgt Problems in Family,SOC
+SOC483, SpTp: Human Diversity,SOC
+SOC493, Senior Seminar II,SOC
+SPN101, Introductory Spanish,SPN
+SPN102, Introductory Spanish II,SPN
+SPN203, Intermediate Spanish III,SPN
+SPN204, Intermediate Spanish IV,SPN
+SPN240, Hispanic Culture (CT),SPN
+SPN335, Latin Am Culture & Civiliza,SPN
+SPN416, Contemporary Spanish Lit,SPN
+STA150, Foundations of Statistics (CT),STA
+STA150B, Foundations of StatsExpd (CT),STA
+STA150L, Foundations of Statistics Lab,STA
+STA225, Introductory Statistics (CT),STA
+STA345, Applied Prob and Stat,STA
+STA413, Experimental Designs,STA
+STA420, Nonparametric Statistics,STA
+STA435, Statistical Data Mining,STA
+STA446, Probability & Statistics II,STA
+STA485, Independent Study,STA
+STHM218, Sports in Society (CT),STHM
+STHM250, Sport Management (CT),STHM
+STHM270, Sport Tourism,STHM
+STHM320, Sports & Campus Rec Mgmt,STHM
+STHM380, Sport Marketing,STHM
+STHM381, Financing Sports,STHM
+STHM390, Sport MGT PreInternship,STHM
+STHM401, Ethics in Sport,STHM
+STHM416, Facility Design & Management,STHM
+STHM430, Sport Law,STHM
+STHM475, Capstone Seminar,STHM
+STHM485, Independent Study,STHM
+STHM490, Internship,STHM
+STHM496, Olympic Games,STHM
+SWK203, Intro To Social Work,SWK
+SWK307, Child Welfare,SWK
+SWK310, Human Behav Soc Envir I,SWK
+SWK312, Hum Behav Soc Envir,SWK
+SWK317, Family Victimology,SWK
+SWK320, Social Work Practice I,SWK
+SWK322, Social Work Practice II,SWK
+SWK330, Soc Wel Issues in Appalachia,SWK
+SWK332, Soc Wel Policy & Legislation,SWK
+SWK340, Social Work Research,SWK
+SWK370, Practicum I,SWK
+SWK475, Social Work Seminar,SWK
+SWK480, SpTp:SWK in Healthcare Setting,SWK
+SWK481, SpTp:Psychopharm & Doc,SWK
+THE112, Theatre Appreciation,THE
+THE220, Stage Movement I: Foundations,THE
+THE230, Auditioning Techniques,THE
+THE240, Stage Lighting I,THE
+THE245, Intro to Technical Theatre,THE
+THE250, Introduction to Costuming,THE
+THE270, Theatre Practicum,THE
+THE320, Acting II: Scene Study,THE
+THE354, Stage Makeup,THE
+THE361, Scene Painting,THE
+THE437, Directing I,THE
+THE441, Theatre Hist Since 1660,THE
+THE480, SpTp: Radium Girls,THE
+THE486, Independent Study,THE
+THE487, Independent Study,THE
+THE488, Independent Study,THE
+THE490, Professional Theatre Residency,THE
+THE499, Senior Capstone Project,THE
+UNI100, Freshman First Class,UNI
+UNI102, Strat for Academic Success,UNI
+UNI103, Career Planning Undecided,UNI
+UNI104, Adv Strat for Acad Success,UNI
+UNI204, Strategy Successful Career Dev,UNI
+UNI280, SpTp: Innovating for Success,UNI
+UNI281, SpTp: Herd Academy Internship,UNI
+UNI301, Peer Leadership I,UNI
+UNI450, Advanced WorkBased Experience,UNI
+WELL305, HE & PE in Early Child Prog,WELL
+WELL426, Curriculum in Health Ed,WELL
+WELL435, Adapted PE & Mainstream,WELL
+WS101, Intro to Women's Studies,WS

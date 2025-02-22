@@ -32,7 +32,11 @@ class web_scraper:
         for subject in data:
             subject_id = subject["name"]
             subject_obj = {"id": subject_id, "name": subject_id }
-            subject_df = pd.DataFrame(subject_obj,index=[0])
+          
+            subject_df = pd.DataFrame({
+                "id": [subject_id],
+                "name": [subject_id]
+            })
             
             self.subjects_df = pd.concat([self.subjects_df, subject_df])
             
@@ -40,30 +44,56 @@ class web_scraper:
                 sub_arr = re.split("\s", course["name"], 2)
                 course_id = sub_arr[0]+sub_arr[1]
                 course_obj = {"id": course_id, "name":sub_arr[2], "subject_id": subject_id }
-                course_df = pd.DataFrame(course_obj,index=[0])
+                
+                course_df = pd.DataFrame({
+                    "id": [course_id],
+                    "name":[sub_arr[2]],
+                    "subject_id": [subject_id]
+                })
+               
                 self.courses_df = pd.concat([self.courses_df, course_df])
                 
                 for section in course["sections"]:
                     
                     section_obj = {"id": section["id"], 'textbook_link': section["textbook_link"], "course_id": course_id }
-                    section_df = pd.DataFrame(section_obj,index=[0])
+                    
+                    section_df = pd.DataFrame({
+                        "id": [section["id"]],
+                        'textbook_link': [section["textbook_link"]],
+                        "course_id": course_id
+                    })
+                   
                     self.sections_df = pd.concat([self.sections_df, section_df])
-            
+        self.sections_df.set_index('id', inplace = True)
+        self.courses_df.set_index('id', inplace = True)
+        self.subjects_df.set_index('id', inplace = True)    
     
     def create_subjects_df(self):
-        col_names =  ['id', 'name'] 
-        self.subjects_df  = pd.DataFrame(columns = col_names,index=[0]) 
-        
+        cols ={
+            'id':[],
+            'name':[]
+        }
+
+        self.subjects_df  = pd.DataFrame(cols) 
+
             
     def create_courses_df(self):
-        col_names =  ['id', 'name','subject_id'] 
-        self.courses_df  = pd.DataFrame(columns = col_names,index=[0]) 
-       
+        cols ={
+            'id':[],
+            'name':[],
+            'subject_id':[]
+        }
+    
+        self.courses_df  = pd.DataFrame(cols) 
     
     def create_sections_df(self):
-        col_names =  ['id', 'textbook_link', "course_id"] 
-        self.sections_df  = pd.DataFrame(columns = col_names,index=[0]) 
-       
+        cols ={
+            'id':[],
+            'textbook_link':[],
+            'course_id':[]
+        }
+        
+        self.sections_df  = pd.DataFrame(cols) 
         
                 
     def scrape_by_link(self):
@@ -221,10 +251,10 @@ class web_scraper:
             
 
 
-# scraper = web_scraper()  
+scraper = web_scraper()  
 
 # scraper.scrape_by_link()
 # scraper.write_to_json()
-# scraper.read_json_data()
-# scraper.create_dfs_from_object()
-# scraper.create_csv_files()
+scraper.read_json_data()
+scraper.create_dfs_from_object()
+scraper.create_csv_files()
