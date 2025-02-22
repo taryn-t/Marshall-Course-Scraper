@@ -31,7 +31,6 @@ class web_scraper:
         
         for subject in data:
             subject_id = subject["name"]
-            subject_obj = {"id": subject_id, "name": subject_id }
           
             subject_df = pd.DataFrame({
                 "id": [subject_id],
@@ -43,7 +42,6 @@ class web_scraper:
             for course in subject["courses"]:
                 sub_arr = re.split("\s", course["name"], 2)
                 course_id = sub_arr[0]+sub_arr[1]
-                course_obj = {"id": course_id, "name":sub_arr[2], "subject_id": subject_id }
                 
                 course_df = pd.DataFrame({
                     "id": [course_id],
@@ -55,15 +53,16 @@ class web_scraper:
                 
                 for section in course["sections"]:
                     
-                    section_obj = {"id": section["id"], 'textbook_link': section["textbook_link"], "course_id": course_id }
-                    
+                    section_id = course_id+section["id"]
                     section_df = pd.DataFrame({
-                        "id": [section["id"]],
+                        "id": [section_id],
+                        "number": [section["id"]],
                         'textbook_link': [section["textbook_link"]],
                         "course_id": course_id
                     })
                    
                     self.sections_df = pd.concat([self.sections_df, section_df])
+                    
         self.sections_df.set_index('id', inplace = True)
         self.courses_df.set_index('id', inplace = True)
         self.subjects_df.set_index('id', inplace = True)    
@@ -89,6 +88,7 @@ class web_scraper:
     def create_sections_df(self):
         cols ={
             'id':[],
+            'number':[],
             'textbook_link':[],
             'course_id':[]
         }
@@ -225,7 +225,7 @@ class web_scraper:
             json.dump(self.json_object, outfile)  
             
             
-    def create_csv_files(self):
+    def create_all_csv_files(self):
         
         self.write_subjects_to_csv()
         self.write_courses_to_csv()
@@ -257,4 +257,4 @@ scraper = web_scraper()
 # scraper.write_to_json()
 scraper.read_json_data()
 scraper.create_dfs_from_object()
-scraper.create_csv_files()
+scraper.create_all_csv_files()
