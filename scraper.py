@@ -53,10 +53,9 @@ class web_scraper:
                 
                 for section in course["sections"]:
                     
-                    section_id = course_id+section["id"]
                     section_df = pd.DataFrame({
-                        "id": [section_id],
-                        "number": [section["id"]],
+                        "id": [section["id"]],
+                        "number": [section["number"]],
                         'textbook_link': [section["textbook_link"]],
                         "course_id": course_id
                     })
@@ -188,11 +187,12 @@ class web_scraper:
                     if len(table_data) == 8:
                         
                         section = {
-                            "id": "",
+                            "id":"",
+                            "number": "",
                             "textbook_link": ""
                         }
-                        
-                        section["id"] = table_data[1].text
+                        section["id"] = table_data[0].text
+                        section["number"] = table_data[1].text
                         try:
                             textbook_td = table_data[-1]
                             textbook_a = textbook_td.find_element(By.TAG_NAME, "a")
@@ -253,8 +253,7 @@ class web_scraper:
 
 scraper = web_scraper()  
 
-# scraper.scrape_by_link()
-# scraper.write_to_json()
-scraper.read_json_data()
+scraper.scrape_by_link()
+scraper.write_to_json()
 scraper.create_dfs_from_object()
 scraper.create_all_csv_files()
